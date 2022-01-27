@@ -2,7 +2,7 @@ export const FRESHERS = [
     {
         entryNum: 143,
         name : "Vansh Kachhwal",
-        image: './GitAssignment2022/assets/cardImg.png',
+        image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'MT1',
         about: 'Just another technophile',
         contact: [
