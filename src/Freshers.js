@@ -45,7 +45,7 @@ export const FRESHERS = [
             {
                 id: 3,
                 type: 'Facebook',
-                url: 'https://www.facebook.com/vansh.kachhwal.7',
+                url: 'https://www.facebook.com/sa',
             }
             
         ]
