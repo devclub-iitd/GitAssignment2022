@@ -6,19 +6,19 @@ function CardFooterDisplay({contact}){
     return(
         <CardFooter>
             {contact.map((account) => {
-                if (account.type==="instagram") {
+                if (account.type==="Instagram") {
                     return(
                         <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-instagram fa-lg insta"></span>
                         </a>
                     );
-                } else if (account.type==="linkedIn") {
+                } else if (account.type==="LinkedIn") {
                     return(
                         <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-linkedin fa-lg linkedin"></span>
                         </a>
                     );
-                } else if (account.type==="github") {
+                } else if (account.type==="Github") {
                     return(
                         <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-github fa-lg gh"></span>
