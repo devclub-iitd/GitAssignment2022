@@ -49,5 +49,34 @@ export const FRESHERS = [
             }
             
         ]
-    }
+    },
+    {
+        entryNum: 638,
+        name : "Yash Agarwal",
+        image: '/GitAssignment2022/public/assets/yash089610.jpeg',
+        branch: 'EE1',
+        about: 'Yet another noob, exploring the deep and dark secrets of LIFE',
+        contact: [
+            {
+                id: 0,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/yash089610',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/yash089610/'
+            },
+            {
+                id: 2,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/yash089610/'
+            },
+            {
+                id: 3,
+                type: 'Github',
+                url: 'https://github.com/Yash089610/',
+            },
+        ]
+    },
 ];
