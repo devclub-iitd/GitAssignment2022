@@ -5,14 +5,26 @@ import { FRESHERS } from "./Freshers";
 function CardFooterDisplay({contact}){
     return(
         <CardFooter>
-            {contact.map((account)=>{
-                if(account.type==="insta"){
+            {contact.map((account) => {
+                if (account.type==="instagram") {
                     return(
                         <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-instagram fa-lg insta"></span>
                         </a>
                     );
-                }else{
+                } else if (account.type==="linkedIn") {
+                    return(
+                        <a href={account.url} target="_blank" rel="noreferrer">
+                            <span className="fa fa-linkedin fa-lg linkedin"></span>
+                        </a>
+                    );
+                } else if (account.type==="github") {
+                    return(
+                        <a href={account.url} target="_blank" rel="noreferrer">
+                            <span className="fa fa-github fa-lg gh"></span>
+                        </a>
+                    );
+                } else {
                     return(
                         <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-facebook fa-lg fb"></span>
