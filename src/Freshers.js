@@ -49,5 +49,30 @@ export const FRESHERS = [
             }
             
         ]
+    },
+    {
+        entryNum: 1108,
+        name : "Shashank Mahawar",
+        image: 'https://shashank.biz/static/img/memoji2.png',
+        branch: 'ME2',
+        about: 'Perfectly Imperfect',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shashmahawar/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/shashmahawar/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/shashmahawar',
+            }
+            
+        ]
     }
 ];
