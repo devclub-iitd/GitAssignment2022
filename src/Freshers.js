@@ -1,4 +1,3 @@
-//This is my Commit
 export const FRESHERS = [
     {
         entryNum: 143,
