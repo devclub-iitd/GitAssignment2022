@@ -49,7 +49,7 @@ export const FRESHERS = [
             }
             
         ]
-    }
+    },
     {
         entryNum: 1139,
         name : "Jaskaran Singh Bhalla",
@@ -66,11 +66,11 @@ export const FRESHERS = [
                 id: 3,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/jaskaransinghbhalla/',
-            }
+            },
             {
                 id: 4,
                 type: 'GitHub',
-                url: 'https://github.com/ultimatejaskaran',
+                url: 'https://github.comultimatejaskaran',
             }
             
         ]
