@@ -53,7 +53,7 @@ export const FRESHERS = [
     {
         entryNum: 638,
         name : "Yash Agarwal",
-        image: '/GitAssignment2022/public/assets/yash089610.jpeg',
+        image: '/GitAssignment2022/assets/yash089610.jpeg',
         branch: 'EE1',
         about: 'Yet another noob, exploring the deep and dark secrets of LIFE',
         contact: [
