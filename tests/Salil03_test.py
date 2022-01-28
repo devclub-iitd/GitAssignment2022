@@ -1,14 +1,7 @@
-a = "10"
-b = "12"
-c = "14"
-d = "16"
-e = "18"
-f = "20"
-g = "22"
-h = "24"
-i = "26"
+def magic(arr):
+    return [[arr[7], arr[0], arr[5]], [arr[2], arr[4], arr[6]], [arr[3], arr[8], arr[1]]]
 
-print("Magic square: ")
-print(h + " " + a + " " + f + " ")
-print(c + " " + e + " " + g + " ")
-print(d + " " + i + " " + b + " ")
+
+def check_magic():
+    assert magic([10, 12, 14, 16, 18, 20, 22, 24, 26]) == [
+        [24, 10, 20], [14, 18, 22], [16, 26, 12]]
