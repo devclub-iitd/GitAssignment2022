@@ -54,7 +54,7 @@ export const FRESHERS = [
     {
         entryNum: 1139,
         name : "Jaskaran Singh Bhalla",
-        image: '/GitAssignment2022/assets/cardImg.png',
+        image: '/GitAssignment2022/assets/2021TT11139.png',
         branch: 'TT1',
         about: 'Just another tech nerd',
         contact: [
@@ -71,7 +71,7 @@ export const FRESHERS = [
             {
                 id: 4,
                 type: 'GitHub',
-                url: 'https://github.comultimatejaskaran',
+                url: 'https://github.com/ultimatejaskaran',
             }
             
         ]
