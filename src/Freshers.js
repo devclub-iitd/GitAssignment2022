@@ -49,5 +49,30 @@ export const FRESHERS = [
             }
             
         ]
+    },
+    {
+        entryNum: 143,
+        name : "Dhruv Jain",
+        image: '/GitAssignment2022/public/assets/Spiderman.jpg',
+        branch: 'BB1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/dhruv19._'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/dhruv-jain-488589179/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/dhruv-7811',
+            }
+            
+        ]
     }
 ];
