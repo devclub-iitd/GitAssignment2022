@@ -49,5 +49,19 @@ export const FRESHERS = [
             }
             
         ]
+    },
+    {
+        entryNum: 905,
+        name : "Nancy Kansal",
+        image: 'https://i.pinimg.com/736x/77/cc/bb/77ccbbdda7411fe2c4feaf11a24a04e8--dear-daughter-girl-stuff.jpg',
+        branch: 'MT1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://www.github.com/Nancy-Kansal-12',
+            }
+        ]
     }
 ];
