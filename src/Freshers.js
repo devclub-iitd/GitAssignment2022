@@ -49,5 +49,30 @@ export const FRESHERS = [
             }
             
         ]
+    },
+    {
+        entryNum: 939,
+        name : "Mukund Aggarwal",
+        image: 'https://i.pinimg.com/originals/4a/39/ac/4a39ac7a06bf0ac74478530131b04e0c.jpg',
+        branch: 'MT6',
+        about: 'J.A.R.V.I.S',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/mukundagg',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/mukundagg24/',
+            },
+            {
+                id: 2,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/mukund-aggarwal-08823122b/'
+            }
+            
+        ]
     }
 ];
