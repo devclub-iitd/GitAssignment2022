@@ -31,9 +31,9 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 144,
+        entryNum: 1044,
         name : "Shubham Agrawal",
-        image: '/GitAssignment2022/assets/2021TT11139.png',
+        image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'TT1',
         about: 'Just another tech nerd',
         contact: [
