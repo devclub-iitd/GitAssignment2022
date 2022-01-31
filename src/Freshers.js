@@ -33,7 +33,7 @@ export const FRESHERS = [
     {
         entryNum: 144,
         name : "Shubham Agrawal",
-        image: '/GitAssignment2022/assets/cardImg.png',
+        image: '/GitAssignment2022/assets/2021TT11139.png',
         branch: 'TT1',
         about: 'Just another tech nerd',
         contact: [
@@ -46,6 +46,31 @@ export const FRESHERS = [
                 id: 3,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/sa',
+            }
+            
+        ]
+    },
+    {
+        entryNum: 1139,
+        name : "Jaskaran Singh Bhalla",
+        image: '/GitAssignment2022/assets/2021TT11139.png',
+        branch: 'TT1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/jaskaransinghbhalla/',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/jaskaransinghbhalla/',
+            },
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/ultimatejaskaran',
             }
             
         ]
