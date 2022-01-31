@@ -51,6 +51,21 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 237,
+        name : "Salil Gokhale",
+        image: 'http://2.bp.blogspot.com/_sMQsqJIM_z0/TIOfp7F9w0I/AAAAAAAACVo/0hj-bLiKOz0/s1600/sphericalcow_430x300.jpg',
+        branch: 'MT1',
+        about: 'Just another random boi',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Salil03',
+            }
+
+        ]
+    },
+    {
         entryNum: 1139,
         name : "Jaskaran Singh Bhalla",
         image: '/GitAssignment2022/assets/2021TT11139.png',
