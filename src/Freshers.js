@@ -49,8 +49,7 @@ export const FRESHERS = [
             }
             
         ]
-    }
-
+    },
     {
         entryNum: 144,
         name : "Shubham Agrawal",
