@@ -33,7 +33,7 @@ export const FRESHERS = [
     {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
-        image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHamster&psig=AOvVaw0qA60KzrmDNZ_8HLZEULBM&ust=1643642293833000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjGrvDi2fUCFQAAAAAdAAAAABAD',
+        image: "https://wallpaperaccess.com/full/1502826.jpg"
         branch: 'BB1',
         about: 'NVM',
         contact: [
