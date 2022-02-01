@@ -51,7 +51,7 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: CS5210126,
+        entryNum: 126,
         name : "Vaibhav Bajaj",
         image: '/GitAssignment2022/assets/OrekiHoutaro.jpg',
         branch: 'CS5',
