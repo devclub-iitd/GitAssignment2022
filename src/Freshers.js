@@ -177,4 +177,31 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 126,
+        name : "Vaibhav Bajaj",
+        image: '/GitAssignment2022/assets/OrekiHoutaro.jpg',
+        branch: 'CS5',
+        about: 'Just another lost soul trying to find the chill after JEE',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vbajaj_113/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vaibhav-bajaj-713506224/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/VBajaj113',
+            },
+            
+            
+    
+        ]
+    }
 ];
