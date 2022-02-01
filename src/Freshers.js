@@ -49,7 +49,7 @@ export const FRESHERS = [
             }
             
         ]
-    }
+    },
 {
         entryNum: 862,
         name : "Sunaina Das",
@@ -69,5 +69,5 @@ export const FRESHERS = [
             }
             
         ]
-    }
+    },
 ];
