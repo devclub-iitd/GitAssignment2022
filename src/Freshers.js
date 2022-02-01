@@ -177,4 +177,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 534,
+        name : "Nishita",
+        image: '/GitAssignment2022/assets/2021CE10534.jpeg',
+        branch: 'CE1',
+        about: 'Just learning Git!!',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/nishita_shruti/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Nishitashruti',
+            },
+        ]
+    },
 ];
