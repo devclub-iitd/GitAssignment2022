@@ -51,6 +51,26 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 898,
+        name : "Vedant Tamhane",
+        image: '/GitAssignment2022/assets/2021MT10898.jpg',
+        branch: 'MT1',
+        about: 'A normal person with high goals',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vedanttamhane/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Vedant0898',
+            },
+                
+        ]
+    },
+    {
         entryNum: 905,
         name : "Nancy Kansal",
         image: 'https://i.pinimg.com/736x/77/cc/bb/77ccbbdda7411fe2c4feaf11a24a04e8--dear-daughter-girl-stuff.jpg',
