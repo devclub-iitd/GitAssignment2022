@@ -50,4 +50,24 @@ export const FRESHERS = [
             
         ]
     }
+{
+        entryNum: 862,
+        name : "Sunaina Das",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png',
+        branch: 'TT1',
+        about: 'Just another girl',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/notagoodnaina',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.facebook.com/notagoodnaina',
+            }
+            
+        ]
+    }
 ];
