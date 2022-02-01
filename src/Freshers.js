@@ -177,4 +177,35 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 480,
+        name : "Pranav Khetarpal",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'CE1',
+        about: 'A Technology Fan, Follower',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/pranav.khetarpal/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/pranav-khetarpal-b30827204/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/pranavktrpl',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/pranav.khetarpal.17',
+            }
+            
+    
+        ]
+    }
 ];
