@@ -31,21 +31,21 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 144,
-        name : "Shubham Agrawal",
-        image: '/GitAssignment2022/assets/cardImg.png',
-        branch: 'TT1',
-        about: 'Just another tech nerd',
+        entryNum: 546,
+        name : "Riddhidipta Pal",
+        image: 'public\assets\2021CS10546.jpg',
+        branch: 'CS1',
+        about: 'Total Technophile',
         contact: [
             {
                 id: 2,
                 type: 'Github',
-                url: 'https://www.github.com/shubhamagra1206',
+                url: 'https://github.com/CoderBoi1024',
             },
             {
                 id: 3,
-                type: 'Facebook',
-                url: 'https://www.facebook.com/sa',
+                type: 'Instagram',
+                url: 'https://www.instagram.com/coder_boi_1024/',
             }
             
         ]
