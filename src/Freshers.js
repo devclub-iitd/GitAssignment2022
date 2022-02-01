@@ -1,5 +1,26 @@
 export const FRESHERS = [
     {
+        entryNum: 11203,
+        name : "Adil Imran Pintoo",
+        image: '/GitAssignment2022/assets/2021bb11203.jpg',
+        branch: 'BB',
+        about: 'Self-led tech-learner',
+        contact: [
+            
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/emraanadil/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/emraanadil',
+            }
+            
+        ]
+    },
+    {
         entryNum: 143,
         name : "Vansh Kachhwal",
         image: '/GitAssignment2022/assets/cardImg.png',
