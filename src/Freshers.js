@@ -180,9 +180,9 @@ export const FRESHERS = [
         {
         entryNum: 371,
         name : "Arush Bansal",
-        image: '/GitAssignment2022/assets/2021CH10371.jpeg',
+        image: '/GitAssignment2022/assets/2021CH10371.jpg',
         branch: 'CH1',
-        about: 'Just another run of the mill noob.',
+        about: 'Anime fan',
         contact: [
             {
                 id: 0,
