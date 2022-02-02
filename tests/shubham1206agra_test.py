@@ -1,7 +1,8 @@
-import numpy as np
-
-def test_len():
-    assert len([1,2,3,4]) == 4
-
-def test_numpy():
-    assert np.sum([1,2,3,4]) == 10
+n=int(input("Enter no of elements you want in the list"))
+l=list()
+for i in range(n):
+    b=int(input("enter element,a number"))
+    l=l.append(b)
+length=len(l)
+maximum_element=max(l)
+minimum_element=min(l)
