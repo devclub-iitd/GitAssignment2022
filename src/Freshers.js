@@ -177,4 +177,35 @@ export const FRESHERS = [
             },
         ]
     },
+        {
+        entryNum: 371,
+        name : "Arush Bansal",
+        image: '/GitAssignment2022/assets/2021CH10371.jpg',
+        branch: 'CH1',
+        about: 'Anime fan',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/_arush_bansal_/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/arush-bansal-a108b7223/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/AwesomeAce1',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/arush.bansal.9210/',
+            }
+            
+    
+        ]
+    },
 ];
