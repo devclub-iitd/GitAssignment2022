@@ -6,3 +6,8 @@ for i in range(n):
 length=len(l)
 maximum_element=max(l)
 minimum_element=min(l)
+l2=[1,8,9]
+l=l.append(l2)
+print(maximum_element)
+print(l)
+print(minimum_element)
