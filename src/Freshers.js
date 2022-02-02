@@ -58,15 +58,17 @@ export const FRESHERS = [
         about: 'Just another tech nerd',
         contact: [
             {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vinay_tayal2805/'
+            },
+            
+            {
                 id: 2,
                 type: 'Github',
                 url: 'https://www.github.com/VinayTayal',
             },
-            {
-                id: 0,
-                type: 'Instagram',
-                url: 'https://www.instagram.com/vinay_tayal2805/'
-            }
+           
          
             
         ]
