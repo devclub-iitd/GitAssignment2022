@@ -177,4 +177,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 77,
+        name: "Vinay Tayal",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'CS1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vinay_tayal2805/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/VinayTayal',
+            },
+        ]
+    },
 ];
