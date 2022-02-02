@@ -177,4 +177,24 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 653,
+        name : "Maithili Joshi",
+        image: 'https://th.bing.com/th/id/OIP.7aIR4LvFwx6Rxytccg1WOAHaHa?pid=ImgDet&rs=1',
+        branch: 'EE1',
+        about: 'noob turning techie',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/savour_n_elegance/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/maithilijoshi20',
+            },
+            
+        ]
+    },
 ];
