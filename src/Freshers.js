@@ -177,4 +177,29 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 700,
+        name : "Vatsal Varshney",
+        image: '/GitAssignment2022/assets/2021EE30700.jpg',
+        branch: 'EE3',
+        about: 'Just another bug in the code of Universe',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsalvarshney1211/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-varshney-2b262722a/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/vatsalvarshney',
+            },
+            
+        ]
+    },
 ];
