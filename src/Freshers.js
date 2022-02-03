@@ -175,6 +175,29 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/Ro-shanKumar',
             },
+    {
+        entryNum: 128,
+        name: "Mohammad Faiz",
+        image: '/GitAssignment2022/assets/2021CS50128.jpg',
+        branch: 'CS5',
+        about: 'Just another tech noob',
+        contact: [
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/mohammad-faiz-b6a010229/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Mfaiz0712',
+            },
+            {
+                id:3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/__f__a_iz__/',
+            },
         ]
     },
-];
+    },
+] 
