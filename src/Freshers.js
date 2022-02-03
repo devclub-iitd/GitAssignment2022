@@ -49,5 +49,36 @@ export const FRESHERS = [
             }
             
         ]
+    },
+    {
+        entryNum: 124,
+        name : "saksham arora ",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'TT1',
+        about: ' sun of a beach ',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/saksham.1009/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/saksham-arora-402891225/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/sakrach',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/saksham.arora.7370',
+            }
+            
+    
+        ]
     }
 ];
