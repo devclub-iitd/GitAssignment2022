@@ -1,9 +1,9 @@
-n = int(input())
-count1 = 0
+import numpy as np
 
-for i in range(n):
-    a, b, c = map(int, input().split(' '))
-    if (a + b + c >= 2):
-        count1 += 1
 
-print(count1)
+def test_len():
+    assert len([1, 2, 3, 4]) == 4
+
+
+def test_numpy():
+    assert np.sum([1, 2, 3, 4]) == 10
