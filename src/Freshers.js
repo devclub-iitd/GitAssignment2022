@@ -177,4 +177,28 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 704,
+        name : "Ritik Srivastava",
+        image: '/GitAssignment2022/assets/buriburi.jpg',
+        branch: 'EE3',
+        about: 'idiotically smart but brilliantly dumb',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/meritik_savvy/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/ritik-srivastava-5100b122b'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/gitritik/',
+            },
+        ]
+    },
 ];
