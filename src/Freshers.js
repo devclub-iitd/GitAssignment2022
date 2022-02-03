@@ -49,5 +49,25 @@ export const FRESHERS = [
             }
             
         ]
-    }
+    },
+    {
+        entryNum: 81,
+        name : "Kavya Chopra",
+        image: '/GitAssignment2022/assets/2021CS10081.jpg',
+        branch: 'CS1',
+        about: 'Why am I even here',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/KavyaChopra04',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/mwlite/in/kavya-chopra-619776223',
+            }
+            
+        ]
+    },
 ];
