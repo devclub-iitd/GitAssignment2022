@@ -5,3 +5,4 @@ def test_len():
 
 def test_numpy():
     assert np.sum([1,2,3,4]) == 10
+    print('coding is lub')
