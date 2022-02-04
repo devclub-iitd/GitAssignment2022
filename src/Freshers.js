@@ -177,4 +177,19 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 221,
+        name: "Mohd SAYANUR Rahman",
+        image: '/GitAssignment2022/assets/2021PH10221.jpg',
+        branch: 'PH1',
+        about: 'A curious learner, Learning and expanding my skillset each day.',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/sayn2109',
+            }
+        ]
+    },
+
 ];
