@@ -155,7 +155,7 @@ export const FRESHERS = [
     ],
   },
   {
-    entryNum: 674,
+    entryNum: 181,
     name: "Roshan Kumar",
     image: "/GitAssignment2022/assets/2021EE30181.jpeg",
     branch: "EE3",
