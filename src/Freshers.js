@@ -177,4 +177,27 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 588,
+        name: "Utkarsh Singh",
+        image: '/GitAssignment2022/assets/2021cs10558.jpeg',
+        branch: 'CS1',
+        about: 'Open campus for UG',
+        contact: [
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/utkarsh-singh-a70b94225/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Utk45',
+            },
+        ]
+    },
+
+
+
+
 ];
