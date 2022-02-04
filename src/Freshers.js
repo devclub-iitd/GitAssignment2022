@@ -177,4 +177,30 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 564,
+        name : "Santhosh Deshineni",
+        image: 'https://images.app.goo.gl/TdRNXouBg8T1q3pNA',
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/flashinassassin1/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/FlashinAssassin1',
+            },
+            
+    
+        ]
+    },
 ];
