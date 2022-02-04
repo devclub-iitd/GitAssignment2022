@@ -177,4 +177,18 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 818,
+        name: "Mitali Nanda",
+        image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
+        branch: 'PH1',
+        about: 'Interested in comp sci and physics',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Mitali-N'
+            },
+        ]
+    },
 ];
