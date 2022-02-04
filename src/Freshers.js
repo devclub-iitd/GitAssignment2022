@@ -177,4 +177,30 @@ export const FRESHERS = [
             },
         ]
     },
+{
+    entryNum: 725,
+    name : "Rishika Goel",
+    image: '/GitAssignment2022/assets/cardImg.png',
+    branch: 'EE3',
+    about: 'Just another curious learner',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/goelrishika76/'
+        },
+        {
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/rishika-goel-22b334230/'
+        },
+        {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/Rishika989',
+        },
+        
+
+    ]
+},
 ];
