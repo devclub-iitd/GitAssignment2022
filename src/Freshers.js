@@ -177,4 +177,33 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 238,
+        name: "Khushvind Maurya",
+        image: 'https://avatars.githubusercontent.com/u/85423418?s=400&v=4',
+        branch: 'MT1',
+        about: 'Mathematics and Computing fresher at IIT Delhi',
+        contact: [
+            {
+                id: 0,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/khushvind.maurya',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/khushvind-maurya-166a411a8/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/khushvind',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/khushvind_maurya/',
+            },
+        ]
+    },
 ];
