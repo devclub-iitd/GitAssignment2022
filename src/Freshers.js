@@ -177,4 +177,30 @@ export const FRESHERS = [
             },
         ]
     },
-];
+    {
+        entryNum: 1121,
+        name : "SHAYAN INTEKHAB",
+        image: '/GitAssignment2022/assets/2021TT11121.png',
+        branch: "TT1",
+        about: 'IN LOVE WITH TECHNOLOGY',
+        contact: [
+            {
+                id: 1,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/iamshayan.intekhab/',
+            },
+            {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shayan_intekhab/',
+            },
+            {
+                id: 3,
+                type: 'Github',
+                url: 'https://github.com/shayanintekhab',
+            },
+        ]
+    },
+ ];
+ 
+
