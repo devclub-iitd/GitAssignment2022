@@ -177,4 +177,28 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 600,
+        name : "Ojasvi Bansal",
+        image: 'https://cdn.ndtv.com/tech/images/gadgets/pikachu_hi_pokemon.jpg',
+        branch: 'CS5',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Geeky-Noob',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ojasvi_383/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100074623955661',
+            },
+        ]
+    },
 ];
