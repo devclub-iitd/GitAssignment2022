@@ -177,4 +177,31 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 509,
+        name:"Mahesh Choudhary",
+        image: "/GitAssignment2022/assets/2020EE10509.jpg",
+        branch: "EE1",
+        about:"Just trying to do what should I have done earlier",
+        contact: [
+            {
+                id: 0,
+                type: "Instagram",
+                url:"https://www.instagram.com/mahesh_choudhary.01/"
+
+            },
+            {
+                id:1,
+                type:"LinkedIn",
+                url:"https://www.linkedin.com/in/mahesh-choudhary-53b185229/"
+            },
+            {
+                id: 2,
+                type:"GitHub",
+                url:"https://github.com/Mahesh1choudhary"
+            }
+            
+        ]
+
+    }
 ];
