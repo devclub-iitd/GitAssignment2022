@@ -217,6 +217,82 @@ export const FRESHERS = [
             },
         ]
     },
+
+
+    {
+        entryNum: 492,
+        name : "Sanskar Khandelwal",
+        image: 'https://avatars.githubusercontent.com/u/97801615?s=400&u=220262307e6e164e825fc1113833f0276e3478f1&v=4',
+        branch: 'CE1',
+        about: 'I m not too tehcnical',
+        contact: [
+            {
+                id: 0,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100068802166237', },
+            {
+                id: 1,
+                type: 'Instagram',
+              
+           
+                url: 'https://www.instagram.com/sanskar_imthe1/'
+            },
+            {
+                id: 2,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/sanskar-khandelwal-b1b456199/'
+            },
+            {
+                id: 3,
+                type: 'Github',
+                url: 'https://github.com/Sanskar711',
+            },
+        ]
+    },
+
+    {
+        entryNum: 999,
+        name: "Priyanshi Tayal",
+        image: '/GitAssignment2022/assets/2021ME10999.jpg',
+        branch: 'ME1',
+        about: 'Just another newbie here, really interested in DevClub and Programming!',
+        contact: [
+            {
+                id: 0,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/priyanshi-tayal-7aaa46227/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/PriyanshiTayal',
+            },
+        ] 
+    },
+    {
+        entryNum: 627,
+        name: "Siddharth Gupta",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'EE1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/siddharth.2110/',
+            },
+            {
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/sidg2110'
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073791277157',
+            },
+        ]
+    },
     {
         entryNum: 818,
         name: "Mitali Nanda",
@@ -490,6 +566,30 @@ export const FRESHERS = [
                 id: 1,
                 type: 'Github',
                 url: "https://github.com/aiden-exe/"
+            },
+        ]
+    },
+    {
+        entryNum: 913,
+        name: "Sukhpreet Singh",
+        image: 'https://cdn.vox-cdn.com/thumbor/HWPOwK-35K4Zkh3_t5Djz8od-jE=/0x86:1192x710/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg',
+        branch: "MT1",
+        about: 'Tech nerd',
+        contact:[
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://www.github.com/Shadow-Coderr'
+            },
+            {
+                id: 1,
+                type: 'Linkedin',
+                url: 'https://www.linkedin.com/in/sukhpreet-singh-a814b2227/'
+            },
+            {
+                id: 2,
+                 type: 'instagram',
+                url: 'https://www.instagram.com/sukhi_saab__/'
             }
         ]
     },
@@ -596,6 +696,35 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 861,
+        name : "Vatsal Malpani",
+        image: '/GitAssignment2022/assets/2020MT10861.jpg',
+        branch: 'MT1',
+        about: 'Exploring Chilling and Learning :)',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/VatsalMalpani',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsal_malpani/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/vatsal.malpani.71',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-malpani/'
+            }
+        ]
+    },
+    {
         entryNum: 83,
         name : "Vidushi Maheshwari",
         image: '/GitAssignment2022/assets/2021CS10083.png',
@@ -642,5 +771,66 @@ export const FRESHERS = [
                 url: 'https://github.com/hello-3585',
             },
         ]
-    }
+    },
+    {
+        entryNum: 1104,
+        name : "Ayushman kumar singh",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'ME1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/me1211004',
+            }
+            
+        ]
+    },
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: 'https://us.123rf.com/450wm/thesomeday123/thesomeday1231712/thesomeday123171200008/91087328-default-avatar-profile-icon-for-female-grey-photo-placeholder-illustrations-vector.jpg?ver=6',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/eshapatel_701/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
+            },
+        ]
+    },
+
+    {
+        entryNum: 547,
+        name: "Rishit Singla",
+        image: 'https://images7.alphacoders.com/729/thumb-1920-729209.jpg',
+        branch: 'CS1',
+        about: 'Very inquisitive',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/singl_riz/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/ris04hit',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073908754625',
+            },
+        ]
+    },
+
 ];
+
