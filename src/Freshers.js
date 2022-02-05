@@ -187,7 +187,7 @@ export const FRESHERS = [
             {
                 id: 1,
                 type: 'Instagram',
-                url: 'https://www.instagram.com/'
+                url: 'https://www.instagram.com/eshapatel_701/'
             },
             {
                 id: 2,
