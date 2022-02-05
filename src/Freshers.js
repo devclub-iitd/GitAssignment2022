@@ -812,5 +812,24 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 437,
+        name: "Uditanshu Sharma",
+        image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fhorizon%2F&psig=AOvVaw0WoZyeNsUtO-TAKbMEbaMl&ust=1644170614099000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCp4P6S6fUCFQAAAAAdAAAAABAD',
+        branch: 'CH7',
+        about: 'enjoying sessions',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/uditanshu57/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/us0437',
+            },
+        ]
+    }, 
 ];
 
