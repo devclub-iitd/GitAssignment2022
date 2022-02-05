@@ -436,5 +436,26 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 969,
+        name : "Shresth Ojha",
+        image: 'https://cdn.europosters.eu/image/1300/posters/death-note-l-symbol-i102245.jpg',
+        branch: 'ME1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shresthojha/'
+            },
+
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/Shresth-Ojha',
+            },
+    
+        ]
+    },
 ];
