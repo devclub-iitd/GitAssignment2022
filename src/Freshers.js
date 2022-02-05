@@ -730,4 +730,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 1038,
+        name: "Nishika Agrawal",
+        image: 'https://www.google.com/search?q=profile+icon&rlz=1C1RXQR_enIN977IN977&sxsrf=APq-WBsAcwjMhJMgXyP0VP-yTGCqOaMcwA:1644082529931&source=lnms&tbm=isch&sa=X&ved=2ahUKEwje2bXZjOn1AhUTZd4KHVFNCUsQ_AUoAXoECAEQAw&biw=1366&bih=663&dpr=1#imgrc=gT-C8jMIKe8YKM',
+        branch: 'ME2',
+        about: '',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/_nishika19/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Nishika19',
+            },
+        ]
+    },
 ];
