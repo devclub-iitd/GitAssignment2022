@@ -309,4 +309,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 577,
+        name: "Ajeet Kumar",
+        image: 'https://drive.google.com/file/d/1V7uhhHelC0782DdMEFStCDKMh4AchsWS/view?usp=drivesdk',
+        branch: 'EE3',
+        about: 'coding makes me happy',
+        contact: [
+            {
+                id: 0,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/ajeet-kumar-3150641b5/',
+            },
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/akki01133',
+            },
+        ]
+    },
 ];
