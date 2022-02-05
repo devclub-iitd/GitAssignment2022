@@ -218,6 +218,20 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 818,
+        name: "Mitali Nanda",
+        image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
+        branch: 'PH1',
+        about: 'Interested in comp sci and physics',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Mitali-N'
+            },
+        ]
+    },
+    {
         entryNum: 134,
         name : "Anish Banerjee",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
@@ -256,6 +270,7 @@ export const FRESHERS = [
           ]
     },
   {
+
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -432,6 +447,7 @@ export const FRESHERS = [
         branch: 'PH1',
         about: 'At iit delhi',
         contact: [
+
             {
                 id: 0,
                 type: 'Github',
