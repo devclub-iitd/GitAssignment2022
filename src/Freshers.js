@@ -623,7 +623,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/profile.php?id=100076647282239',
             }
         ]
-    }
+    },
     {
         entryNum: 1104,
         name : "Ayushman kumar singh",
@@ -638,5 +638,5 @@ export const FRESHERS = [
             }
             
         ]
-    },
-],
+    }
+];
