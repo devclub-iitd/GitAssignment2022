@@ -623,5 +623,24 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/profile.php?id=100076647282239',
             }
         ]
+    },
+    {
+        entryNum: 978,
+        name : "Abhinav Verma",
+        image: 'https://www.howtogeek.com/wp-content/uploads/2021/01/windows_hello_hero_2.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1',
+        branch: 'ME1',
+        about: 'Trying everything',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/officer_3585/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/hello-3585',
+            },
+        ]
     }
 ];
