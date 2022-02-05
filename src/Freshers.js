@@ -246,7 +246,28 @@ export const FRESHERS = [
             }
         ]
     },
-    {
+    {        entryNum: 564,
+        name : "Santhosh Deshineni",
+        image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/flashinassassin1/'
+            },
+          {
+                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            },
+          {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/FlashinAssassin1'
+          }
+          ]
+    },
+  {
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -399,6 +420,8 @@ export const FRESHERS = [
                 type: 'Instagram',
                 url: 'https://www.instagram.com/khushvind_maurya/',
             },
+            
+    
         ]
     },
                
@@ -507,6 +530,25 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://www.github.com/Harshini321',
             },
+        ]
+    },
+    {
+        entryNum: 760,
+        name : "Ishaan Popli",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'ES',
+        about: 'random',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/ishaanpoplii',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/',
+            }
         ]
     },
 ];
