@@ -436,7 +436,7 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
     {
         entryNum: 108,
         name: "Harshini",
@@ -444,13 +444,11 @@ export const FRESHERS = [
         branch: 'CS1',
         about: 'I have nothing',
         contact: [
-            
             {
                 id: 2,
                 type: 'Github',
                 url: 'https://www.github.com/Harshini321',
             },
-            
         ]
     },
 ];
