@@ -175,6 +175,8 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/Ro-shanKumar',
             },
+        ]
+    },
     {
         entryNum: 128,
         name: "Mohammad Faiz",
@@ -190,7 +192,7 @@ export const FRESHERS = [
             {
                 id: 2,
                 type: 'Github',
-                url: 'https://github.com/Mfaiz0712',
+                url : 'https://github.com/Mfaiz0712',
             },
             {
                 id:3,
@@ -198,6 +200,5 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/__f__a_iz__/',
             },
         ]
-    },
     },
 ] 
