@@ -246,5 +246,18 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 827,
+        name: "sarthak likhwar",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'PH1',
+        about: 'At iit delhi',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/sarthaklikhwar',
+            },
+        ]
+    },
 ];
-
