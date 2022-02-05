@@ -31,6 +31,26 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 20,
+        name : "Harsh Vardhan Singh Patel",
+        image: "https://wallpaperaccess.com/full/1502826.jpg",
+        branch: 'BB1',
+        about: 'NVM',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/hvsp2704',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.facebook.com/sa',
+            }
+            
+        ]
+    },
+    {
         entryNum: 1044,
         name : "Shubham Agrawal",
         image: '/GitAssignment2022/assets/cardImg.png',
@@ -178,6 +198,7 @@ export const FRESHERS = [
         ]
     },
     {
+
         entryNum: 600,
         name : "Ojasvi Bansal",
         image: 'https://cdn.ndtv.com/tech/images/gadgets/pikachu_hi_pokemon.jpg',
@@ -199,6 +220,89 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/profile.php?id=100074623955661',
               },
          ]
+},
+  {
+        entryNum: 1052,
+        name : "Harsh Swaika",
+        image: '/GitAssignment2022/assets/2021ME21052.jpg',
+        branch: 'ME2',
+        about: 'Learning Something New',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/harshswaika',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/harsh_swaika_/',
+            }
+        ]
+    },
+    {
+        entryNum: 221,
+        name: "Mohd SAYANUR Rahman",
+        image: '/GitAssignment2022/assets/2021PH10221.jpg',
+        branch: 'PH1',
+        about: 'A curious learner, Learning and expanding my skillset each day.',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/sayn2109',
+            }
+        ]
+    },
+    {
+        entryNum: 1121,
+        name : "SHAYAN INTEKHAB",
+        image: '/GitAssignment2022/assets/2021TT11121.jpeg',
+        branch: "TT1",
+        about: 'IN LOVE WITH TECHNOLOGY',
+        contact: [
+            {
+                id: 1,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/iamshayan.intekhab/',
+            },
+            {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shayan_intekhab/',
+            },
+            {
+                id: 3,
+                type: 'Github',
+                url: 'https://github.com/shayanintekhab',
+            },
+        ]
+    },
+    {
+        entryNum: 509,
+        name:"Mahesh Choudhary",
+        image: "/GitAssignment2022/assets/2020EE10509.jpg",
+        branch: "EE1",
+        about:"Just trying to do what should I have done earlier",
+        contact: [
+            {
+                id: 0,
+                type: "Instagram",
+                url:"https://www.instagram.com/mahesh_choudhary.01/"
+
+            },
+            {
+                id:1,
+                type:"LinkedIn",
+                url:"https://www.linkedin.com/in/mahesh-choudhary-53b185229/"
+            },
+            {
+                id: 2,
+                type:"GitHub",
+                url:"https://github.com/Mahesh1choudhary"
+            }
+        ]
+
     },
     {
         entryNum: 552,
