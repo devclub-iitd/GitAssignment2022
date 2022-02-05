@@ -237,6 +237,30 @@ export const FRESHERS = [
         ] 
     },
     {
+        entryNum: 627,
+        name: "Siddharth Gupta",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'EE1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/siddharth.2110/',
+            },
+            {
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/sidg2110'
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073791277157',
+            },
+        ]
+    },
+    {
         entryNum: 818,
         name: "Mitali Nanda",
         image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
@@ -615,6 +639,35 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 861,
+        name : "Vatsal Malpani",
+        image: '/GitAssignment2022/assets/2020MT10861.jpg',
+        branch: 'MT1',
+        about: 'Exploring Chilling and Learning :)',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/VatsalMalpani',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsal_malpani/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/vatsal.malpani.71',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-malpani/'
+            }
+        ]
+    },
+    {
         entryNum: 83,
         name : "Vidushi Maheshwari",
         image: '/GitAssignment2022/assets/2021CS10083.png',
@@ -642,5 +695,39 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/profile.php?id=100076647282239',
             }
         ]
-    }
+    },
+    {
+        entryNum: 1104,
+        name : "Ayushman kumar singh",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'ME1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/me1211004',
+            }
+            
+        ]
+    },
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: 'https://us.123rf.com/450wm/thesomeday123/thesomeday1231712/thesomeday123171200008/91087328-default-avatar-profile-icon-for-female-grey-photo-placeholder-illustrations-vector.jpg?ver=6',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/eshapatel_701/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
+            },
+        ]
+    },
 ];
