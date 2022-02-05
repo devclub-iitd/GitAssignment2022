@@ -566,6 +566,30 @@ export const FRESHERS = [
                 id: 1,
                 type: 'Github',
                 url: "https://github.com/aiden-exe/"
+            },
+        ]
+    },
+    {
+        entryNum: 913,
+        name: "Sukhpreet Singh",
+        image: 'https://cdn.vox-cdn.com/thumbor/HWPOwK-35K4Zkh3_t5Djz8od-jE=/0x86:1192x710/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg',
+        branch: "MT1",
+        about: 'Tech nerd',
+        contact:[
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://www.github.com/Shadow-Coderr'
+            },
+            {
+                id: 1,
+                type: 'Linkedin',
+                url: 'https://www.linkedin.com/in/sukhpreet-singh-a814b2227/'
+            },
+            {
+                id: 2,
+                 type: 'instagram',
+                url: 'https://www.instagram.com/sukhi_saab__/'
             }
         ]
     },
