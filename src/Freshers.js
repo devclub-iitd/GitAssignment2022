@@ -441,7 +441,6 @@ export const FRESHERS = [
         entryNum: 692,
         name: "Eepsita",
         branch: "EE1",
-        image: "https://www.vobss.com/wp-content/uploads/2021/10/beluga-cat-meme-vobss.jpg",
         about: "idek tbh",
         contact: [
             {
