@@ -177,4 +177,24 @@ export const FRESHERS = [
             },
         ]
     },
+
+    {
+        entryNum: 73,
+        name:"Aaveg Jain" ,
+        image: 'https://i.pinimg.com/564x/ab/5f/91/ab5f91d4cf0cdc3b5fc1acff71e54ef1.jpg' ,
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id:0,
+                type:'Instagram',
+                url:'https://www.instagram.com/aaveg_jain/'
+            },
+            {
+                id:1,
+                type:'github',
+                url:'https://github.com/Aavegjain',
+            }
+        ]
+    },
 ];
