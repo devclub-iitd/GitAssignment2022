@@ -436,5 +436,24 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 906,
+        name: "Shreya Gupta",
+        image: '/GitAssignment2022/assets/2021MT10906.jpg',
+        branch: 'MT1',
+        about: 'Always looking for new things to explore :) ',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/mysterious_ms_quin/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/wafflesandpancakes19',
+            }
+        ]
+    },
 ];
