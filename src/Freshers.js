@@ -677,7 +677,21 @@ export const FRESHERS = [
             }
         ]
     },
-    
+    {
+        entryNum: 1104,
+        name : "Ayushman kumar singh",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'ME1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/me1211004',
+            }
+            
+        ]
+    },
     {
         entryNum: 566,
         name: "Esha Patel",
