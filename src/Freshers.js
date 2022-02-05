@@ -624,4 +624,23 @@ export const FRESHERS = [
             }
         ]
     }
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: 'https://us.123rf.com/450wm/thesomeday123/thesomeday1231712/thesomeday123171200008/91087328-default-avatar-profile-icon-for-female-grey-photo-placeholder-illustrations-vector.jpg?ver=6',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/eshapatel_701/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
+            },
+        ]
+    },
 ];
