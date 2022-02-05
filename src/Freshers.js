@@ -644,12 +644,12 @@ export const FRESHERS = [
             {
                 id: 0,
                 type: 'Instagram',
-                url: 'https://www.instagram.com/vidushi0204/
+                url: 'https://www.instagram.com/vidushi0204/'
             },
           {
                 id: 1,
                 type: 'LinkedIn',
-                url 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223
+                url: 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223',
           },
 
             {   
