@@ -178,6 +178,35 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 552,
+        name: "Harshit Gupta",
+        image: "/GitAssignment2022/assets/2021CS10552.jpeg",
+        branch: "CS1",
+        about: " tolal noob but great passion for learning",
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/harshitgupta3006',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/harshitgupta3006/',
+            },
+            {
+                id: 2,
+                type: "Facebook",
+                url: 'https://www.facebook.com/profile.php?id=100073619614368',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: "https://www.linkedin.com/in/harshit-gupta-1774b122b",
+            },
+        ]
+    },
+    {
         entryNum: 73,
         name:"Aaveg Jain" ,
         image: 'https://i.pinimg.com/564x/ab/5f/91/ab5f91d4cf0cdc3b5fc1acff71e54ef1.jpg' ,
