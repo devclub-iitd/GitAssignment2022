@@ -441,6 +441,7 @@ export const FRESHERS = [
         entryNum: 692,
         name: "Eepsita",
         branch: "EE1",
+        image: "",
         about: "idek tbh",
         contact: [
             {
