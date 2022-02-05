@@ -177,4 +177,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
+            },
+        ]
+    },
 ];
