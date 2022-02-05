@@ -177,4 +177,26 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 805,
+        name: "Arnav Sharma",
+        image: '/GitAssignment2022/assets/2021AM10805.jpg',
+        branch: 'AM1',
+        about: 'Chill',
+        contact: [
+            {
+                id: 1, 
+                type: 'LinkedIn',
+                url: "https://www.linkedin.com/in/arnav-sharma-69b975224/" 
+            },
+            {
+                id:2,
+                type: 'Github',
+                url: 'https://github.com/Ashaeyx'
+            },
+        ]
+
+    }
 ];
+
+
