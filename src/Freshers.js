@@ -812,5 +812,24 @@ export const FRESHERS = [
             },
         ]
     },
+
+    {
+        entryNum: 1175,
+        name: "Basil Labib",
+        branch: "TT1",
+        image: "https://images7.alphacoders.com/729/thumb-1920-729209.jpg",
+        contacts: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/basil08'
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://instagram.com/basil__labib'
+            }
+        ]
+    }
 ];
 
