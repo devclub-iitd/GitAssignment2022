@@ -218,6 +218,20 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 134,
+        name : "Anish Banerjee",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'EE1',
+        about: 'Just another tech enthusiast',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/AB271202',
+            }
+        ]
+    },
+    {
         entryNum: 564,
         name : "Santhosh Deshineni",
         image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
