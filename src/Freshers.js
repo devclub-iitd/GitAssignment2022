@@ -418,24 +418,23 @@ export const FRESHERS = [
             },
         ]
     },
-  {
+    {
         entryNum: 639,
         name: "Sarwagya Prasad",
         branch: "EE1",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETbBiHrzYshms5p5Y8gnB5aTOpsRVub3k8Q&usqp=CAU",
         about: "",
         contact: [
-        {
-            id: 0,
-            type: "Instagram",
-            url: "https://www.instagram.com/sarwagya_prasad/"
-
-        },
-        {
-            id: 1,
-            type: 'Github',
-            url: "https://github.com/aiden-exe/"
-        }
-    ]
+            {
+                id: 0,
+                type: "Instagram",
+                url: "https://www.instagram.com/sarwagya_prasad/"
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: "https://github.com/aiden-exe/"
+            }
+        ]
     }
 ];
