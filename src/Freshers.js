@@ -436,5 +436,19 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 108,
+        name: "Harshini",
+        image: '/GitAssignment2022/assets/2021CS10108.png',
+        branch: 'CS1',
+        about: 'I have nothing',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/Harshini321',
+            },
+        ]
+    },
 ];
