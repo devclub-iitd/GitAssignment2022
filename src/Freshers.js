@@ -1,7 +1,7 @@
 export const FRESHERS = [
     {
         entryNum: 143,
-        name : "Vansh Kachhwal",
+        name: "Vansh Kachhwal",
         image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'MT1',
         about: 'Just another technophile',
@@ -26,8 +26,6 @@ export const FRESHERS = [
                 type: 'Facebook',
                 url: 'https://www.facebook.com/vansh.kachhwal.7',
             }
-            
-    
         ]
     },
     {
@@ -47,7 +45,6 @@ export const FRESHERS = [
                 type: 'Instagram',
                 url: 'https://www.facebook.com/sa',
             }
-            
         ]
     },
     {
@@ -67,7 +64,30 @@ export const FRESHERS = [
                 type: 'Facebook',
                 url: 'https://www.facebook.com/sa',
             }
-            
+        ]
+    },
+    {
+        entryNum: 327,
+        name: "Shiven Rathore",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'BB',
+        about: 'really interested for devclub',
+        contacts: [
+            {
+                id: 0,
+                type: 'GitHub',
+                url: 'https://github.com/shivarr1',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shiven.rathore/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100076626291571',
+            }
         ]
     },
     {
