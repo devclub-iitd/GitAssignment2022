@@ -1,4 +1,6 @@
-def greet(name):
-    print("Namaste world : "+name)
+def inc(x):
+    return x + 1
 
-greet("DevClub")
+
+def test_answer():
+    assert inc(3) == 4
