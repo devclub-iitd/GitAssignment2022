@@ -402,7 +402,7 @@ export const FRESHERS = [
     {
         entryNum: 577,
         name: "Ajeet Kumar",
-        image: 'https://drive.google.com/file/d/1V7uhhHelC0782DdMEFStCDKMh4AchsWS/view?usp=drivesdk',
+        image: '/GitAssignment2022/assets/2020EE30577.jpg',
         branch: 'EE3',
         about: 'coding makes me happy',
         contact: [
