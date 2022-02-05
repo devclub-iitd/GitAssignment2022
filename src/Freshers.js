@@ -218,6 +218,30 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 564,
+        name : "Santhosh Deshineni",
+        image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/flashinassassin1/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            },
+          {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/FlashinAssassin1'
+          }
+          ]
+    },
+  {
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -364,6 +388,8 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/DarkEthics',
             },
+            
+    
         ]
     },
     {
