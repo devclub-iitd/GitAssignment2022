@@ -436,5 +436,29 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 760,
+        name: "Ishaan Popli",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'ES',
+        about: 'procastinator',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/ishaan-popli-5b6783228/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/ishaanpoplii',
+            },
+        ]
+    },
 ];
