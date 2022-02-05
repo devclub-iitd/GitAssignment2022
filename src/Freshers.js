@@ -182,7 +182,7 @@ export const FRESHERS = [
         name: "Priyanshi Tayal",
         image: '/GitAssignment2022/assets/2021ME10999.jpg',
         branch: 'ME1',
-        about: 'Just another newbie here, interested in programming and exploring it!',
+        about: 'Just another newbie here, really interested in DevClub and Programming!',
         contact: [
             {
                 id: 0,
