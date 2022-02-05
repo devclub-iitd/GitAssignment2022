@@ -554,4 +554,33 @@ export const FRESHERS = [
             }
         ]
     },
+    {
+        entryNum: 861,
+        name : "Vatsal Malpani",
+        image: '/GitAssignment2022/assets/2020MT10861.jpg',
+        branch: 'MT1',
+        about: 'Exploring Chilling and Learning :)',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/VatsalMalpani',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsal_malpani/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/vatsal.malpani.71',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-malpani/'
+            }
+        ]
+    },
 ];
