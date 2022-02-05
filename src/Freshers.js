@@ -396,7 +396,10 @@ export const FRESHERS = [
                 id: 0,
                 type: 'Github',
                 url: 'https://github.com/harshitgupta3006',
-
+            },
+            {
+                id: 1,
+                type: 'Instagram',
                 url: 'https://www.instagram.com/harshitgupta3006/',
             },
             {
