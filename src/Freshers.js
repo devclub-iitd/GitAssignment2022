@@ -258,9 +258,12 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/flashinassassin1/'
             },
           {
-                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
             },
           {
+
             id: 2,
             type: 'Github',
             url: 'https://github.com/FlashinAssassin1'
