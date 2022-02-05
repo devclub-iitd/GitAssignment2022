@@ -52,7 +52,7 @@ export const FRESHERS = [
     },
     {
         entryNum: 124,
-        name : "saksham arora ",
+        name : "Saksham Arora ",
         image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'TT1',
         about: ' sun of a beach ',
