@@ -177,4 +177,28 @@ export const FRESHERS = [
             },
         ]
     },
-];
+    {
+        entryNum: 627,
+        name: "Siddharth Gupta",
+        image: '/GitAssignment2022/assets/2021EE1210627.jpeg',
+        branch: 'EE1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/siddharth.2110/',
+            },
+            {
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/sidg2110'
+            }
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073791277157',
+            },
+        ]
+    },
+    
