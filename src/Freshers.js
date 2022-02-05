@@ -1,7 +1,7 @@
 export const FRESHERS = [
     {
         entryNum: 143,
-        name : "Vansh Kachhwal",
+        name: "Vansh Kachhwal",
         image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'MT1',
         about: 'Just another technophile',
@@ -26,8 +26,25 @@ export const FRESHERS = [
                 type: 'Facebook',
                 url: 'https://www.facebook.com/vansh.kachhwal.7',
             }
-            
-    
+        ]
+    },
+    {
+        entryNum: 20,
+        name : "Harsh Vardhan Singh Patel",
+        image: "https://wallpaperaccess.com/full/1502826.jpg",
+        branch: 'BB1',
+        about: 'NVM',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/hvsp2704',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.facebook.com/sa',
+            }
         ]
     },
     {
@@ -47,7 +64,30 @@ export const FRESHERS = [
                 type: 'Facebook',
                 url: 'https://www.facebook.com/sa',
             }
-            
+        ]
+    },
+    {
+        entryNum: 327,
+        name: "Shiven Rathore",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'BB',
+        about: 'really interested for devclub',
+        contacts: [
+            {
+                id: 0,
+                type: 'GitHub',
+                url: 'https://github.com/shivarr1',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shiven.rathore/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100076626291571',
+            }
         ]
     },
     {
@@ -178,6 +218,39 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 1052,
+        name : "Harsh Swaika",
+        image: '/GitAssignment2022/assets/2021ME21052.jpg',
+        branch: 'ME2',
+        about: 'Learning Something New',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/harshswaika',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/harsh_swaika_/',
+            }
+        ]
+    },
+    {
+        entryNum: 221,
+        name: "Mohd SAYANUR Rahman",
+        image: '/GitAssignment2022/assets/2021PH10221.jpg',
+        branch: 'PH1',
+        about: 'A curious learner, Learning and expanding my skillset each day.',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/sayn2109',
+            }
+        ]
+    },
+    {
         entryNum: 1121,
         name : "SHAYAN INTEKHAB",
         image: '/GitAssignment2022/assets/2021TT11121.jpeg',
@@ -281,8 +354,6 @@ export const FRESHERS = [
         branch: 'MT1',
         about: 'just trying to be a rainbow on someone"s cloud',
         contact: [
-            
-           
             {
                 id: 1,
                 type: 'LinkedIn',
@@ -293,6 +364,25 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/DarkEthics',
             },
+        ]
+    },
+    {
+        entryNum: 81,
+        name : "Kavya Chopra",
+        image: '/GitAssignment2022/assets/2021CS10081.jpg',
+        branch: 'CS1',
+        about: 'Why am I even here',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/KavyaChopra04',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/mwlite/in/kavya-chopra-619776223',
+            }
         ]
     },
     {
@@ -328,4 +418,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 639,
+        name: "Sarwagya Prasad",
+        branch: "EE1",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETbBiHrzYshms5p5Y8gnB5aTOpsRVub3k8Q&usqp=CAU",
+        about: "",
+        contact: [
+            {
+                id: 0,
+                type: "Instagram",
+                url: "https://www.instagram.com/sarwagya_prasad/"
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: "https://github.com/aiden-exe/"
+            }
+        ]
+    }
 ];
