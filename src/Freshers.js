@@ -220,7 +220,7 @@ export const FRESHERS = [
     {
         entryNum: 627,
         name: "Siddharth Gupta",
-        image: '/GitAssignment2022/assets/2021EE1210627.jpeg',
+        image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'EE1',
         about: 'Just another technophile',
         contact: [
