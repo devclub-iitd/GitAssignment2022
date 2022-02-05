@@ -218,7 +218,6 @@ export const FRESHERS = [
         ]
     },
     {
-
         entryNum: 818,
         name: "Mitali Nanda",
         image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
@@ -233,6 +232,32 @@ export const FRESHERS = [
         ]
      },
      {
+
+        entryNum: 564,
+        name : "Santhosh Deshineni",
+        image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/flashinassassin1/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            },
+          {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/FlashinAssassin1'
+          }
+          ]
+    },
+  {
+
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -379,6 +404,8 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/DarkEthics',
             },
+            
+    
         ]
     },
     {
@@ -418,7 +445,7 @@ export const FRESHERS = [
     {
         entryNum: 577,
         name: "Ajeet Kumar",
-        image: 'https://drive.google.com/file/d/1V7uhhHelC0782DdMEFStCDKMh4AchsWS/view?usp=drivesdk',
+        image: '/GitAssignment2022/assets/2020EE30577.jpg',
         branch: 'EE3',
         about: 'coding makes me happy',
         contact: [
@@ -452,5 +479,38 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 969,
+        name : "Shresth Ojha",
+        image: 'https://cdn.europosters.eu/image/1300/posters/death-note-l-symbol-i102245.jpg',
+        branch: 'ME1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shresthojha/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/Shresth-Ojha',
+            },
+        ]
+    },
+    {
+        entryNum: 108,
+        name: "Harshini",
+        image: '/GitAssignment2022/assets/2021CS10108.png',
+        branch: 'CS1',
+        about: 'I have nothing',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/Harshini321',
+            },
+        ]
+    },
 ];
