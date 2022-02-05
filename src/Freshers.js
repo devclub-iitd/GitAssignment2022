@@ -439,26 +439,21 @@ export const FRESHERS = [
     },
     {
         entryNum: 760,
-        name: "Ishaan Popli",
+        name : "Ishaan Popli",
         image: '/GitAssignment2022/assets/cardImg.png',
         branch: 'ES',
-        about: 'procastinator',
+        about: 'random',
         contact: [
             {
                 id: 0,
-                type: 'Instagram',
-                url: 'https://www.instagram.com/ishaanpoplii/'
-            },
-            {
-                id: 1,
-                type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/ishaan-popli-5b6783228/'
-            },
-            {
-                id: 2,
                 type: 'Github',
                 url: 'https://github.com/ishaanpoplii',
             },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/',
+            }
         ]
     },
 ];
