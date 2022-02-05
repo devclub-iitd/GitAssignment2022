@@ -436,5 +436,29 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
-    }
+    },
+    {
+        entryNum: 897,
+        name: "Rishank Aggarwal",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'MT1',
+        about: 'Improving day by day',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/rishank19.12/'
+            },
+            {
+                id: 1,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100010024068155,'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/rishank1912',
+            },
+        ]
+    },
 ];
