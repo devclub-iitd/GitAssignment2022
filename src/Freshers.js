@@ -595,4 +595,28 @@ export const FRESHERS = [
             }
         ]
     },
+    {
+        entryNum: 123,
+        name : "Rishabh Verma",
+        image: '/GitAssignment2022/assets/2020CS50123.png',
+        branch: 'CS5',
+        about: ' ',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/vermish6/',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/rishabh-verma-b90502214/'
+            },
+            {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/rishabh_verma06/',
+            }
+        ]
+    },
 ];
