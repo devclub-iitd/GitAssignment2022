@@ -763,5 +763,30 @@ export const FRESHERS = [
             },
         ]
     },
+
+    {
+        entryNum: 547,
+        name: "Rishit Singla",
+        image: 'https://images7.alphacoders.com/729/thumb-1920-729209.jpg',
+        branch: 'CS1',
+        about: 'Very inquisitive',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/singl_riz/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/ris04hit',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073908754625',
+            },
+        ]
+    },
 ];
 
