@@ -187,7 +187,7 @@ export const FRESHERS = [
             {
                 id: 0,
                 type: 'Github',
-                url: 'https://github.com/Harshini321'
+                url: 'https://github.com/Harshini321',
             },
         ]
     },
