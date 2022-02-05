@@ -436,5 +436,22 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
+    },
+    {
+        entryNum: 96,
+        name: "Jyotiraditya Yadav"
+        branch: "CS1"
+        image: "https://www.jagranimages.com/images/newimg/05072021/05_07_2021-03_07_2020-funny__jokes_in_hindi_20468806_114715988_21801133.jpg"
+        about:"Some Assignments are cool ,some"
+        contact:[
+           {  id: 0,
+            type: "Instagram",
+            url:"https://www.instagram.com/jyotiradityadav/"
+           },{
+               id: 1 ,
+               type: "Github",
+               url: "https://github.com/Sigmale"
+           }
+        ]
     }
 ];
