@@ -496,4 +496,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 760,
+        name : "Ishaan Popli",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'ES',
+        about: 'random',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/ishaanpoplii',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/',
+            }
+        ]
+    },
 ];
