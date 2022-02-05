@@ -177,4 +177,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 999,
+        name: "Priyanshi Tayal",
+        image: '/GitAssignment2022/assets/2021ME10999.jpg',
+        branch: 'ME1',
+        about: 'Just another newbie here, interested in programming and exploring it!',
+        contact: [
+            {
+                id: 0,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/priyanshi-tayal-7aaa46227/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/PriyanshiTayal',
+            },
+        ]        
+    }
 ];
