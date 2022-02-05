@@ -408,8 +408,7 @@ export const FRESHERS = [
         image: '/GitAssignment2022/assets/2021CS10081.jpg',
         branch: 'CS1',
         about: 'Why am I even here',
-        contact: [
-          },
+        contact: [       
             {
                 id: 2,
                 type: 'Github',
