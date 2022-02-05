@@ -230,9 +230,22 @@ export const FRESHERS = [
                 url: 'https://github.com/Mitali-N'
             },
         ]
-     },
-     {
-
+    },
+    {
+        entryNum: 134,
+        name : "Anish Banerjee",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'EE1',
+        about: 'Just another tech enthusiast',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/AB271202',
+            }
+        ]
+    },
+    {
         entryNum: 564,
         name : "Santhosh Deshineni",
         image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
@@ -481,6 +494,31 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 96,
+        name: "Jyotiraditya Yadav",
+        branch: 'CS1',
+        image: 'https://www.jagranimages.com/images/newimg/05072021/05_07_2021-03_07_2020-funny__jokes_in_hindi_20468806_114715988_21801133.jpg',
+        about: 'Some Assignments are cool ,some', 
+        contact: [
+           {  
+                id: 0,
+                type: 'Instagram',
+                url:'https://www.instagram.com/jyotiradityadav/',
+            },
+            {
+               id: 1 ,
+               type: 'Github',
+               url: 'https://github.com/Sigmale'
+           },
+           {
+               id: 2,
+               type: 'LinkedIn' ,
+               url:'linkedin.com/in/jyotiraditya-yadav-7060a720b'
+
+           }
+        ]
+    },
+    {
         entryNum: 969,
         name : "Shresth Ojha",
         image: 'https://cdn.europosters.eu/image/1300/posters/death-note-l-symbol-i102245.jpg',
@@ -511,6 +549,50 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://www.github.com/Harshini321',
             },
+
+        ]
+    },
+    {
+        entryNum: 700,
+        name : "Vatsal Varshney",
+        image: '/GitAssignment2022/assets/2021EE30700.jpg',
+        branch: 'EE3',
+        about: 'Just another bug in the code of Universe',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsalvarshney1211/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-varshney-2b262722a/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/vatsalvarshney',
+            },
+        ]
+    },
+    {
+        entryNum: 760,
+        name : "Ishaan Popli",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'ES',
+        about: 'random',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/ishaanpoplii',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/',
+            }
         ]
     },
 ];
