@@ -218,6 +218,44 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 627,
+        name: "Siddharth Gupta",
+        image: '/GitAssignment2022/assets/2021EE1210627.jpeg',
+        branch: 'EE1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/siddharth.2110/',
+            },
+            {
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/sidg2110'
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073791277157',
+            },
+        ]
+    },
+    {
+        entryNum: 818,
+        name: "Mitali Nanda",
+        image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
+        branch: 'PH1',
+        about: 'Interested in comp sci and physics',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Mitali-N'
+            },
+        ]
+    },
+    {
         entryNum: 134,
         name : "Anish Banerjee",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
@@ -256,6 +294,7 @@ export const FRESHERS = [
           ]
     },
   {
+
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -432,6 +471,7 @@ export const FRESHERS = [
         branch: 'PH1',
         about: 'At iit delhi',
         contact: [
+
             {
                 id: 0,
                 type: 'Github',
@@ -475,6 +515,31 @@ export const FRESHERS = [
                 type: 'Github',
                 url: "https://github.com/aiden-exe/"
             }
+        ]
+    },
+    {
+        entryNum: 96,
+        name: "Jyotiraditya Yadav",
+        branch: 'CS1',
+        image: 'https://www.jagranimages.com/images/newimg/05072021/05_07_2021-03_07_2020-funny__jokes_in_hindi_20468806_114715988_21801133.jpg',
+        about: 'Some Assignments are cool ,some', 
+        contact: [
+           {  
+                id: 0,
+                type: 'Instagram',
+                url:'https://www.instagram.com/jyotiradityadav/',
+            },
+            {
+               id: 1 ,
+               type: 'Github',
+               url: 'https://github.com/Sigmale'
+           },
+           {
+               id: 2,
+               type: 'LinkedIn' ,
+               url:'linkedin.com/in/jyotiraditya-yadav-7060a720b'
+
+           }
         ]
     },
     {
@@ -581,6 +646,55 @@ export const FRESHERS = [
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/vatsal-malpani/'
             }
+        ]
+    },
+    {
+        entryNum: 83,
+        name : "Vidushi Maheshwari",
+        image: '/GitAssignment2022/assets/2021CS10083.png',
+        branch: 'CS1',
+        about: 'Eternal Learner',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vidushi0204/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/vidushi0204',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100076647282239',
+            }
+        ]
+    },
+    
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: 'https://us.123rf.com/450wm/thesomeday123/thesomeday1231712/thesomeday123171200008/91087328-default-avatar-profile-icon-for-female-grey-photo-placeholder-illustrations-vector.jpg?ver=6',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/eshapatel_701/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
+            },
         ]
     },
 ];
