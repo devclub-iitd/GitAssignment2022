@@ -205,6 +205,46 @@ export const FRESHERS = [
                 url: "https://www.linkedin.com/in/harshit-gupta-1774b122b",
             },
         ]
-
+    },
+    {
+        entryNum: 73,
+        name:"Aaveg Jain" ,
+        image: 'https://i.pinimg.com/564x/ab/5f/91/ab5f91d4cf0cdc3b5fc1acff71e54ef1.jpg' ,
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id:0,
+                type:'Instagram',
+                url:'https://www.instagram.com/aaveg_jain/'
+            },
+            {
+                id:1,
+                type:'github',
+                url:'https://github.com/Aavegjain',
+            },
+        ]
+    },
+    {
+        entryNum: 917,
+        name : "Shivam Kumar",
+        image: '/GitAssignment2022/assets/2021MT10917.jpg',
+        branch: 'MT1',
+        about: 'just trying to be a rainbow on someone"s cloud',
+        contact: [
+            
+           
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/shivam-kumar-024359225'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/DarkEthics',
+            },
+        ]
     },
 ];
+
