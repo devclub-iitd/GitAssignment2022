@@ -21,7 +21,8 @@ def quiz_me():
         else:
             print("Wrong answer :( your score is stuck at", score)
 
-start = datetime.now()
-quiz_me()
+def main():
+    start = datetime.now()
+    quiz_me()
 
-print(f"Congratulations! you successfully wasted {(datetime.now()-start).seconds} seconds of you life!", )
+    print(f"Congratulations! you successfully wasted {(datetime.now()-start).seconds} seconds of you life!", )
