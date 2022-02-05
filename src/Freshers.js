@@ -400,23 +400,41 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 577,
+        name: "Ajeet Kumar",
+        image: 'https://drive.google.com/file/d/1V7uhhHelC0782DdMEFStCDKMh4AchsWS/view?usp=drivesdk',
+        branch: 'EE3',
+        about: 'coding makes me happy',
+        contact: [
+            {
+                id: 0,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/ajeet-kumar-3150641b5/',
+            },
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/akki01133',
+            },
+        ]
+    },
+    {
         entryNum: 639,
         name: "Sarwagya Prasad",
         branch: "EE1",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETbBiHrzYshms5p5Y8gnB5aTOpsRVub3k8Q&usqp=CAU",
         about: "",
         contact: [
-        {
-            id: 0,
-            type: "Instagram",
-            url: "https://www.instagram.com/sarwagya_prasad/"
-
-        },
-        {
-            id: 1,
-            type: 'Github',
-            url: "https://github.com/aiden-exe/"
-        }
-    ]
+            {
+                id: 0,
+                type: "Instagram",
+                url: "https://www.instagram.com/sarwagya_prasad/"
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: "https://github.com/aiden-exe/"
+            }
+        ]
     }
 ];
