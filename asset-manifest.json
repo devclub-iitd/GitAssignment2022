@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GitAssignment2022/static/css/main.4ce398bd.chunk.css",
-    "main.js": "/GitAssignment2022/static/js/main.30de0c53.chunk.js",
-    "main.js.map": "/GitAssignment2022/static/js/main.30de0c53.chunk.js.map",
+    "main.js": "/GitAssignment2022/static/js/main.faab5072.chunk.js",
+    "main.js.map": "/GitAssignment2022/static/js/main.faab5072.chunk.js.map",
     "runtime-main.js": "/GitAssignment2022/static/js/runtime-main.fcde9bf9.js",
     "runtime-main.js.map": "/GitAssignment2022/static/js/runtime-main.fcde9bf9.js.map",
     "static/css/2.4b6a6d2d.chunk.css": "/GitAssignment2022/static/css/2.4b6a6d2d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4b6a6d2d.chunk.css",
     "static/js/2.d96c179f.chunk.js",
     "static/css/main.4ce398bd.chunk.css",
-    "static/js/main.30de0c53.chunk.js"
+    "static/js/main.faab5072.chunk.js"
   ]
 }
