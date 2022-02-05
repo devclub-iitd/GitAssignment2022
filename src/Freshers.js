@@ -540,4 +540,23 @@ export const FRESHERS = [
             }
         ]
     },
+    {
+        entryNum: 942,
+        name: "Samarth Singla",
+        image: '/GitAssignment2022/assets/2021MT60942.JPG',
+        branch: 'MT6',
+        about: 'Keep Seeking.',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/samarthsingla',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/samarth_s26/',
+            }
+        ]
+    }
 ];
