@@ -812,5 +812,34 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 089,
+        name: "Yadvender Singh",
+        image: 'https://images.indianexpress.com/2020/11/IIT-Delhi-1200.jpg',
+        branch: 'CS1',
+        about: 'Just another guy who likes DevClub a lot',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/yadvenderchahal/'
+            },
+            {
+                id: 1,
+                type: 'twitter',
+                url: 'https://twitter.com/ChahalYadvender'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/yadvenderchahal/',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/yadvender.chahal.7',
+            }
+        ]
+    },
 ];
 
