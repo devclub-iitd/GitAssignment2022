@@ -177,7 +177,8 @@ export const FRESHERS = [
             },
         ]
     },
-    entryNum: 917,
+    {
+        entryNum: 917,
         name : "Shivam Kumar",
         image: '/GitAssignment2022/assets/2021MT10917.jpg',
         branch: 'MT1',
