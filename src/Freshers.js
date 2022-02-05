@@ -218,6 +218,102 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 999,
+        name: "Priyanshi Tayal",
+        image: '/GitAssignment2022/assets/2021ME10999.jpg',
+        branch: 'ME1',
+        about: 'Just another newbie here, really interested in DevClub and Programming!',
+        contact: [
+            {
+                id: 0,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/priyanshi-tayal-7aaa46227/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/PriyanshiTayal',
+            },
+        ] 
+    },
+    {
+        entryNum: 627,
+        name: "Siddharth Gupta",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'EE1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/siddharth.2110/',
+            },
+            {
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/sidg2110'
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100073791277157',
+            },
+        ]
+    },
+    {
+        entryNum: 818,
+        name: "Mitali Nanda",
+        image: 'https://png.pngtree.com/png-clipart/20190726/ourlarge/pngtree-cartoon-cute-girl-wearing-glasses-illustration-png-image_1558285.jpg',
+        branch: 'PH1',
+        about: 'Interested in comp sci and physics',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Mitali-N'
+            },
+        ]
+    },
+    {
+        entryNum: 134,
+        name : "Anish Banerjee",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'EE1',
+        about: 'Just another tech enthusiast',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/AB271202',
+            }
+        ]
+    },
+    {
+        entryNum: 564,
+        name : "Santhosh Deshineni",
+        image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
+        branch: 'CS1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/flashinassassin1/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+            },
+          {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/FlashinAssassin1'
+          }
+          ]
+    },
+  {
+
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -364,6 +460,8 @@ export const FRESHERS = [
                 type: 'Github',
                 url: 'https://github.com/DarkEthics',
             },
+            
+    
         ]
     },
     {
@@ -392,6 +490,7 @@ export const FRESHERS = [
         branch: 'PH1',
         about: 'At iit delhi',
         contact: [
+
             {
                 id: 0,
                 type: 'Github',
@@ -458,6 +557,200 @@ export const FRESHERS = [
                 id: 2,
                 type: 'Github',
                 url: 'https://github.com/rishank1912',
+            },
+        ]          
+    },
+    {
+        entryNum: 96,
+        name: "Jyotiraditya Yadav",
+        branch: 'CS1',
+        image: 'https://www.jagranimages.com/images/newimg/05072021/05_07_2021-03_07_2020-funny__jokes_in_hindi_20468806_114715988_21801133.jpg',
+        about: 'Some Assignments are cool ,some', 
+        contact: [
+           {  
+                id: 0,
+                type: 'Instagram',
+                url:'https://www.instagram.com/jyotiradityadav/',
+            },
+            {
+               id: 1 ,
+               type: 'Github',
+               url: 'https://github.com/Sigmale'
+           },
+           {
+               id: 2,
+               type: 'LinkedIn' ,
+               url:'linkedin.com/in/jyotiraditya-yadav-7060a720b'
+
+           }
+        ]
+    },
+    {
+        entryNum: 969,
+        name : "Shresth Ojha",
+        image: 'https://cdn.europosters.eu/image/1300/posters/death-note-l-symbol-i102245.jpg',
+        branch: 'ME1',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/shresthojha/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/Shresth-Ojha',
+            },
+        ]
+    },
+    {
+        entryNum: 108,
+        name: "Harshini",
+        image: '/GitAssignment2022/assets/2021CS10108.png',
+        branch: 'CS1',
+        about: 'I have nothing',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/Harshini321',
+            },
+
+        ]
+    },
+    {
+        entryNum: 700,
+        name : "Vatsal Varshney",
+        image: '/GitAssignment2022/assets/2021EE30700.jpg',
+        branch: 'EE3',
+        about: 'Just another bug in the code of Universe',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsalvarshney1211/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-varshney-2b262722a/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/vatsalvarshney',
+            },
+        ]
+    },
+    {
+        entryNum: 760,
+        name : "Ishaan Popli",
+        image: '/GitAssignment2022/assets/cardImg.png',
+        branch: 'ES',
+        about: 'random',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/ishaanpoplii',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/ishaanpoplii/',
+            }
+        ]
+    },
+    {
+        entryNum: 861,
+        name : "Vatsal Malpani",
+        image: '/GitAssignment2022/assets/2020MT10861.jpg',
+        branch: 'MT1',
+        about: 'Exploring Chilling and Learning :)',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/VatsalMalpani',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vatsal_malpani/',
+            },
+            {
+                id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/vatsal.malpani.71',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vatsal-malpani/'
+            }
+        ]
+    },
+    {
+        entryNum: 83,
+        name : "Vidushi Maheshwari",
+        image: '/GitAssignment2022/assets/2021CS10083.png',
+        branch: 'CS1',
+        about: 'Eternal Learner',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vidushi0204/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/vidushi0204',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100076647282239',
+            }
+        ]
+    },
+    {
+        entryNum: 1104,
+        name : "Ayushman kumar singh",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'ME1',
+        about: 'Just another tech nerd',
+        contact: [
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/me1211004',
+            }
+            
+        ]
+    },
+    {
+        entryNum: 566,
+        name: "Esha Patel",
+        image: 'https://us.123rf.com/450wm/thesomeday123/thesomeday1231712/thesomeday123171200008/91087328-default-avatar-profile-icon-for-female-grey-photo-placeholder-illustrations-vector.jpg?ver=6',
+        branch: 'CS1',
+        about: 'Just another nerd',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/eshapatel_701/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Eshapatel701',
             },
         ]
     },
