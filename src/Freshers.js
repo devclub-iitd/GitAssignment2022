@@ -177,4 +177,24 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 505,
+        name: "Rishita Dwivedi",
+        image: '/GitAssignment2022/assets/2021CE10505.jpeg',
+        branch: 'CE',
+        about: 'Just another technophile',
+        contact: [
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/rishita-dwivedi-36263a228/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Rishita-Dwivedi-28',
+            },
+        ]
+    },
 ];
+     
