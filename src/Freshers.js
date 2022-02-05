@@ -177,4 +177,34 @@ export const FRESHERS = [
             },
         ]
     },
+
+    {
+        entryNum: 492,
+        name : "Sanskar Khandelwal",
+        image: 'https://avatars.githubusercontent.com/u/97801615?s=400&u=220262307e6e164e825fc1113833f0276e3478f1&v=4',
+        branch: 'CE1',
+        about: 'I m not too tehcnical',
+        contact: [
+            {
+                id: 0,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100068802166237',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/sanskar_imthe1/'
+            },
+            {
+                id: 2,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/sanskar-khandelwal-b1b456199/'
+            },
+            {
+                id: 3,
+                type: 'Github',
+                url: 'https://github.com/Sanskar711',
+            },
+        ]
+    },
 ];
