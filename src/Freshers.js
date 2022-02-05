@@ -437,4 +437,23 @@ export const FRESHERS = [
             }
         ]
     }
+    {
+        entryNum: 692,
+        name: "Eepsita",
+        branch: "EE1",
+        image: "https://www.vobss.com/wp-content/uploads/2021/10/beluga-cat-meme-vobss.jpg",
+        about: "idek tbh",
+        contact: [
+            {
+                id: 0,
+                type: "Instagram",
+                url: "https://www.instagram.com/eepsita23/"
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: "https://github.com/Eternityme/"
+            }
+        ]
+    }
 ];
