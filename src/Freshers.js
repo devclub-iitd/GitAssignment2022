@@ -177,7 +177,6 @@ export const FRESHERS = [
             },
         ]
     },
-
     {
         entryNum: 73,
         name:"Aaveg Jain" ,
@@ -194,7 +193,29 @@ export const FRESHERS = [
                 id:1,
                 type:'github',
                 url:'https://github.com/Aavegjain',
-            }
+            },
+        ]
+    },
+    {
+        entryNum: 917,
+        name : "Shivam Kumar",
+        image: '/GitAssignment2022/assets/2021MT10917.jpg',
+        branch: 'MT1',
+        about: 'just trying to be a rainbow on someone"s cloud',
+        contact: [
+            
+           
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/shivam-kumar-024359225'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/DarkEthics',
+            },
         ]
     },
 ];
+
