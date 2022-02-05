@@ -180,7 +180,7 @@ export const FRESHERS = [
     {
         entryNum: 805,
         name: "Arnav Sharma",
-        image: '/GitAssignment2022/assets/2021AM10805.jpg',
+        image: '/GitAssignment2022/assets/2021AM10805.png',
         branch: 'AM1',
         about: 'Chill',
         contact: [
