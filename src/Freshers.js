@@ -610,8 +610,39 @@ export const FRESHERS = [
         ]
     },
     {
+
+        entryNum: 83,
+        name : "Vidushi Maheshwari",
+        image: '/GitAssignment2022/assets/2021CS10083.png',
+        branch: 'CS1',
+        about: 'Eternal Learner',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vidushi0204/
+            },
+          {
+                id: 1,
+                type: 'LinkedIn',
+                url 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223
+          },
+
+            {   
+                id: 2,
+                type: 'GitHub',
+                url: 'https://github.com/vidushi0204',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100076647282239',
+            },
+        ]
+    },
+      {
         entryNum: 238,
-        name: "Khushvind Maurya",
+        name : "Khushvind Maurya",
         image: 'https://avatars.githubusercontent.com/u/85423418?s=400&v=4',
         branch: 'MT1',
         about: 'Mathematics and Computing fresher at IIT Delhi',
