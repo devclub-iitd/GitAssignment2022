@@ -812,5 +812,29 @@ export const FRESHERS = [
             },
         ]
     },
-];
 
+{
+    entryNum: 976,
+    name: 'Akshatt Sethia',
+    image: 'https://image.shutterstock.com/image-vector/geek-boy-laptop-thumbs-260nw-214747612.jpg',
+    branch: 'ME1',
+    about: 'Learner',
+    contacts: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/akshattsethia/',
+        },
+        {
+            id: 2,
+            type: 'Github',
+            url: 'https://github.com/akshatt0',
+        },
+        {
+            id: 3,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100074553648861',
+        },
+    ]
+},
+];
