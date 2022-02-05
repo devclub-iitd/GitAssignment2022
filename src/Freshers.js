@@ -220,7 +220,7 @@ export const FRESHERS = [
     {
         entryNum: 564,
         name : "Santhosh Deshineni",
-        image: 'https://images.app.goo.gl/TdRNXouBg8T1q3pNA',
+        image: 'https://wallpaperforu.com/wp-content/uploads/2021/04/Wallpaper-Naruto-Wallpaper-Uzumaki-Naruto-Naruto-Shippuu401350x2400.jpg',
         branch: 'CS1',
         about: 'Just another technophile',
         contact: [
