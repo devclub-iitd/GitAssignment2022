@@ -178,6 +178,25 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 1052,
+        name : "Harsh Swaika",
+        image: '/GitAssignment2022/assets/2021ME21052.jpg',
+        branch: 'ME2',
+        about: 'Learning Something New',
+        contact: [
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/harshswaika',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/harsh_swaika_/',
+            }
+        ]
+    },
+    {
         entryNum: 221,
         name: "Mohd SAYANUR Rahman",
         image: '/GitAssignment2022/assets/2021PH10221.jpg',
