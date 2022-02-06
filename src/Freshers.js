@@ -836,7 +836,7 @@ export const FRESHERS = [
         name : "Ayushman kumar singh",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
         branch: 'ME1',
-        about: 'Just another tech nerd',
+        about: 'Aspiring for the nation',
         contact: [
             {
                 id: 4,
