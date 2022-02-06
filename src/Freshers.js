@@ -222,6 +222,26 @@ export const FRESHERS = [
             
         ]
     },
+   {
+        entryNum: 862,
+        name : "Sunaina Das",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png',
+        branch: 'TT1',
+        about: 'Just another girl',
+  
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://www.github.com/notagoodnaina',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.facebook.com/notagoodnaina',
+            },
+           ]
+    },
     {
         entryNum: 638,
         name : "Yash Agarwal",
@@ -769,10 +789,11 @@ export const FRESHERS = [
         image: '/GitAssignment2022/assets/2021CS10108.png',
         branch: 'CS1',
         about: 'I have nothing',
+
         contact: [
             {
-                id: 2,
-                type: 'Github',
+                id: 0,
+                type: 'Instagram',
                 url: 'https://www.github.com/Harshini321',
             },
 
