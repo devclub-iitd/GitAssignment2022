@@ -362,4 +362,23 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 35,
+        name: "Divyansh Agarwal",
+        image: '/GitAssignment2022/assets/Divyansh132.jpg',
+        branch: 'CE1',
+        about: 'Trying to make something out of life',
+        contact: [
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/Divyansh132',
+            },
+            {
+                id: 2,
+                type: "Facebook",
+                url: 'https://www.facebook.com/profile.php?id=100073721954491',
+            },
+        ]
+    },
 ];
