@@ -815,7 +815,7 @@ export const FRESHERS = [
     {
         entryNum: 437,
         name: "Uditanshu Sharma",
-        image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fhorizon%2F&psig=AOvVaw0WoZyeNsUtO-TAKbMEbaMl&ust=1644170614099000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCp4P6S6fUCFQAAAAAdAAAAABAD',
+        image: 'https://images.pexels.com/photos/934718/pexels-photo-934718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
         branch: 'CH7',
         about: 'enjoying sessions',
         contacts: [
