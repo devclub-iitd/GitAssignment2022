@@ -867,6 +867,14 @@ export const FRESHERS = [
     },
 
     {
+        entryNum: 1038,
+        name: "Nishika Agrawal",
+        image: 'https://www.google.com/search?q=profile+icon&rlz=1C1RXQR_enIN977IN977&sxsrf=APq-WBsAcwjMhJMgXyP0VP-yTGCqOaMcwA:1644082529931&source=lnms&tbm=isch&sa=X&ved=2ahUKEwje2bXZjOn1AhUTZd4KHVFNCUsQ_AUoAXoECAEQAw&biw=1366&bih=663&dpr=1#imgrc=gT-C8jMIKe8YKM',
+        branch: 'ME2',
+        about: '',
+     },
+
+    {
         entryNum: 547,
         name: "Rishit Singla",
         image: 'https://images7.alphacoders.com/729/thumb-1920-729209.jpg',
@@ -984,6 +992,7 @@ export const FRESHERS = [
         image: '/GitAssignment2022/assets/2021ME21046.jpg',
         branch: 'ME2',
         about: 'kya hi jaan loge ye padhke?',
+
         contact: [
             {
                 id: 0,
@@ -994,6 +1003,7 @@ export const FRESHERS = [
                 id: 1,
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/aditya-singal-3a96b0223/'
+
             },
             {
                 id: 2,
@@ -1028,6 +1038,7 @@ export const FRESHERS = [
                 id: 3,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/profile.php?id=100074553648861',
+
             },
         ]
     },
