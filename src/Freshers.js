@@ -308,6 +308,7 @@ export const FRESHERS = [
         ]
     },
     {
+
         entryNum: 134,
         name : "Anish Banerjee",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
@@ -333,12 +334,13 @@ export const FRESHERS = [
                 type: 'Instagram',
                 url: 'https://www.instagram.com/flashinassassin1/'
             },
-            {
-                id: 1,
-                type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
+          {
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/santhosh-deshineni-332176230/'
             },
           {
+
             id: 2,
             type: 'Github',
             url: 'https://github.com/FlashinAssassin1'
@@ -487,23 +489,30 @@ export const FRESHERS = [
                 id: 1,
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/shivam-kumar-024359225'
+
             },
             {
                 id: 2,
                 type: 'Github',
-                url: 'https://github.com/DarkEthics',
+                url: 'https://github.com/khushvind',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/khushvind_maurya/',
             },
             
     
         ]
     },
+               
     {
         entryNum: 81,
         name : "Kavya Chopra",
         image: '/GitAssignment2022/assets/2021CS10081.jpg',
         branch: 'CS1',
         about: 'Why am I even here',
-        contact: [
+        contact: [       
             {
                 id: 2,
                 type: 'Github',
@@ -592,6 +601,9 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/sukhi_saab__/'
             }
         ]
+      
+    
+
     },
     {
         entryNum: 96,
@@ -736,20 +748,50 @@ export const FRESHERS = [
                 type: 'Instagram',
                 url: 'https://www.instagram.com/vidushi0204/'
             },
-            {
+          {
                 id: 1,
                 type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223'
-            },
-            {
+                url: 'https://www.linkedin.com/in/vidushi-maheshwari-5a1441223',
+          },
+
+            {   
                 id: 2,
-                type: 'Github',
+                type: 'GitHub',
                 url: 'https://github.com/vidushi0204',
             },
             {
                 id: 3,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/profile.php?id=100076647282239',
+            },
+        ]
+    },
+      {
+        entryNum: 238,
+        name : "Khushvind Maurya",
+        image: 'https://avatars.githubusercontent.com/u/85423418?s=400&v=4',
+        branch: 'MT1',
+        about: 'Mathematics and Computing fresher at IIT Delhi',
+        contact: [
+            {
+                id: 0,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/khushvind.maurya',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/khushvind-maurya-166a411a8/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/khushvind',
+            },
+            {
+                id: 3,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/khushvind_maurya/',
             }
         ]
     },
@@ -831,6 +873,34 @@ export const FRESHERS = [
             },
         ]
     },
-
+    {
+        entryNum: 1046,
+        name: "Aditya Singal",
+        image: '/GitAssignment2022/assets/2021ME21046.jpg',
+        branch: 'ME2',
+        about: 'kya hi jaan loge ye padhke?',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/aditya_singal/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/aditya-singal-3a96b0223/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/adityasingal',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/aditya.singal.169',
+            }
+        ]
+    }
 ];
 
