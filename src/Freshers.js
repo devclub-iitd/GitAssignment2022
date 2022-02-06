@@ -919,7 +919,7 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 089,
+        entryNum: 89,
         name: "Yadvender Singh",
         image: 'https://images.indianexpress.com/2020/11/IIT-Delhi-1200.jpg',
         branch: 'CS1',
