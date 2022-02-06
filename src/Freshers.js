@@ -797,17 +797,42 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 123,
+        name : "Rishabh Verma",
+        image: '/GitAssignment2022/assets/2020CS50123.png',
+        branch: 'CS5',
+        about: ' ',
+        contact:[
+                {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/vermish6/',
+                },
+                {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/rishabh-verma-b90502214/',
+                },
+                {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/rishabh_verma06/',
+            }
+        ]
+    },
+      {
         entryNum: 861,
         name : "Vatsal Malpani",
         image: '/GitAssignment2022/assets/2020MT10861.jpg',
         branch: 'MT1',
         about: 'Exploring Chilling and Learning :)',
+
         contact: [
-            {
+              {
                 id: 0,
                 type: 'Github',
                 url: 'https://github.com/VatsalMalpani',
-            },
+              },
             {
                 id: 1,
                 type: 'Instagram',
@@ -866,9 +891,12 @@ export const FRESHERS = [
                 id: 0,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/khushvind.maurya',
+
             },
-            {
-                id: 1,
+            
+
+          {
+                 id: 1,
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/khushvind-maurya-166a411a8/'
             },
