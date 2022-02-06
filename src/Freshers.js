@@ -796,6 +796,25 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 978,
+        name : "Abhinav Verma",
+        image: 'https://www.howtogeek.com/wp-content/uploads/2021/01/windows_hello_hero_2.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1',
+        branch: 'ME1',
+        about: 'Trying everything',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/officer_3585/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/hello-3585',
+            },
+        ]
+    },
+    {
         entryNum: 1104,
         name : "Ayushman kumar singh",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
