@@ -874,6 +874,27 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 699,
+        name: "Arnav Goel",
+        image: 'https://i.pinimg.com/originals/52/75/93/52759366813c9f39ae1ac0699b034204.jpg',
+        branch: 'EE3' ,
+        about: 'World is not nice',
+        contacts: [
+            {
+                id:0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/g_arnav_/',
+
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/ArnavGoel458',
+                
+            },
+        ]
+    },
+    {
         entryNum: 1046,
         name: "Aditya Singal",
         image: '/GitAssignment2022/assets/2021ME21046.jpg',
