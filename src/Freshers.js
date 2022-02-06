@@ -891,6 +891,35 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 089,
+        name: "Yadvender Singh",
+        image: 'https://images.indianexpress.com/2020/11/IIT-Delhi-1200.jpg',
+        branch: 'CS1',
+        about: 'Just another guy who likes DevClub a lot',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/yadvenderchahal/'
+            },
+            {
+                id: 1,
+                type: 'twitter',
+                url: 'https://twitter.com/ChahalYadvender'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/yadvenderchahal/',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/yadvender.chahal.7',
+            }
+        ]
+    },
+      {
         entryNum: 437,
         name: "Uditanshu Sharma",
         image: 'https://images.pexels.com/photos/934718/pexels-photo-934718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
@@ -938,6 +967,7 @@ export const FRESHERS = [
                 id:0,
                 type: 'Instagram',
                 url: 'https://www.instagram.com/g_arnav_/',
+
 
             },
             {
