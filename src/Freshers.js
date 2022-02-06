@@ -891,6 +891,25 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 437,
+        name: "Uditanshu Sharma",
+        image: 'https://images.pexels.com/photos/934718/pexels-photo-934718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        branch: 'CH7',
+        about: 'enjoying sessions',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/uditanshu57/',
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/us0437',
+            },
+        ]
+    }, 
+    {
         entryNum: 1175,
         name: "Basil Labib",
         branch: "TT1",
