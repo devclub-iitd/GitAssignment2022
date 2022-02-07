@@ -190,7 +190,7 @@ export const FRESHERS = [
         ]
     },
     {
-      {
+      
         entryNum: '2021BB10321',
         name : "Dhruv Jain",
         image: '/GitAssignment2022/public/assets/Spiderman.jpg',
@@ -1186,6 +1186,46 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/profile.php?id=100074553648861',
 
             },
+            {
+                entryNum: 1046,
+                name: "Aditya Singal",
+                image: '/GitAssignment2022/assets/2021ME21046.jpg',
+                branch: 'ME2',
+                about: 'kya hi jaan loge ye padhke?',
+        
+                contact: [
+                    {
+                        id: 0,
+                        type: 'Instagram',
+                        url: 'https://www.instagram.com/aditya_singal/'
+                    },
+                    {
+                        id: 1,
+                        type: 'LinkedIn',
+                        url: 'https://www.linkedin.com/in/aditya-singal-3a96b0223/'
+        
+                    },
+                    {
+                        id: 2,
+                        type: 'Github',
+                        url: 'https://github.com/adityasingal',
+                    },
+                    {
+                        id: 3,
+                        type: 'Facebook',
+                        url: 'https://www.facebook.com/aditya.singal.169',
+                    }
+                ]
+            },
+            {
+                entryNum: 719,
+                name: 'Ridhima Gupta',
+                image: 'https://static.turbosquid.com/Preview/001203/725/DO/cute-girl-character-3D-model_DHQ.jpg',
+                branch: 'EE3',
+                about: 'Erudite',
+            },
+               
+                  
 
         ]
     },
