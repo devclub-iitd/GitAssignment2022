@@ -1189,4 +1189,18 @@ export const FRESHERS = [
 
         ]
     },
+    {
+        entryNum: 813,
+        name: 'Yash Solanki',
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'PH1',
+        about: 'Average maths enjoyer',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/oyesolanki/',
+            },
+        ]
+    }
 ];
