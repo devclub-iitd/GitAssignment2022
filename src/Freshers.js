@@ -91,6 +91,51 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 898,
+        name : "Vedant Tamhane",
+        image: '/GitAssignment2022/assets/2021MT10898.jpg',
+        branch: 'MT1',
+        about: 'A normal person with high goals',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/vedanttamhane/'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Vedant0898',
+            },
+                
+        ]
+    },
+    {
+        entryNum: 939,
+        name : "Mukund Aggarwal",
+        image: 'https://i.pinimg.com/originals/4a/39/ac/4a39ac7a06bf0ac74478530131b04e0c.jpg',
+        branch: 'MT6',
+        about: 'J.A.R.V.I.S',
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/mukundagg',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/mukundagg24/',
+            },
+            {
+                id: 2,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/mukund-aggarwal-08823122b/'
+            }
+            
+        ]
+    },
+    {
         entryNum: 905,
         name : "Nancy Kansal",
         image: 'https://i.pinimg.com/736x/77/cc/bb/77ccbbdda7411fe2c4feaf11a24a04e8--dear-daughter-girl-stuff.jpg',
@@ -145,6 +190,14 @@ export const FRESHERS = [
         ]
     },
     {
+      {
+        entryNum: '2021BB10321',
+        name : "Dhruv Jain",
+        image: '/GitAssignment2022/public/assets/Spiderman.jpg',
+        branch: 'BB1',
+    },
+    
+     {
         entryNum: 1108,
         name : "Shashank Mahawar",
         image: 'https://shashank.biz/static/img/memoji2.png',
@@ -168,6 +221,26 @@ export const FRESHERS = [
             }
             
         ]
+    },
+   {
+        entryNum: 862,
+        name : "Sunaina Das",
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png',
+        branch: 'TT1',
+        about: 'Just another girl',
+  
+        contact: [
+            {
+                id: 0,
+                type: 'Github',
+                url: 'https://www.github.com/notagoodnaina',
+            },
+            {
+                id: 1,
+                type: 'Instagram',
+                url: 'https://www.facebook.com/notagoodnaina',
+            },
+           ]
     },
     {
         entryNum: 638,
@@ -218,6 +291,26 @@ export const FRESHERS = [
         ]
     },
     {
+
+        entryNum: 653,
+        name : "Maithili Joshi",
+        image: 'https://th.bing.com/th/id/OIP.7aIR4LvFwx6Rxytccg1WOAHaHa?pid=ImgDet&rs=1',
+        branch: 'EE1',
+        about: 'noob turning techie',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/savour_n_elegance/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/maithilijoshi20',
+            },
+          ]
+      },  
+  {
         entryNum: 805,
         name: "Arnav Sharma",
         image: '/GitAssignment2022/assets/2021AM10805.png',
@@ -623,6 +716,30 @@ export const FRESHERS = [
 
     },
     {
+        entryNum: 897,
+        name: "Rishank Aggarwal",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+        branch: 'MT1',
+        about: 'Improving day by day',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/rishank19.12/'
+            },
+            {
+                id: 1,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100010024068155,'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/rishank1912',
+            },
+        ]          
+    },
+    {
         entryNum: 96,
         name: "Jyotiraditya Yadav",
         branch: 'CS1',
@@ -672,10 +789,11 @@ export const FRESHERS = [
         image: '/GitAssignment2022/assets/2021CS10108.png',
         branch: 'CS1',
         about: 'I have nothing',
+
         contact: [
             {
-                id: 2,
-                type: 'Github',
+                id: 0,
+                type: 'Instagram',
                 url: 'https://www.github.com/Harshini321',
             },
 
@@ -725,17 +843,42 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 123,
+        name : "Rishabh Verma",
+        image: '/GitAssignment2022/assets/2020CS50123.png',
+        branch: 'CS5',
+        about: ' ',
+        contact:[
+                {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/vermish6/',
+                },
+                {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/rishabh-verma-b90502214/',
+                },
+                {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/rishabh_verma06/',
+            }
+        ]
+    },
+      {
         entryNum: 861,
         name : "Vatsal Malpani",
         image: '/GitAssignment2022/assets/2020MT10861.jpg',
         branch: 'MT1',
         about: 'Exploring Chilling and Learning :)',
+
         contact: [
-            {
+              {
                 id: 0,
                 type: 'Github',
                 url: 'https://github.com/VatsalMalpani',
-            },
+              },
             {
                 id: 1,
                 type: 'Instagram',
@@ -794,9 +937,12 @@ export const FRESHERS = [
                 id: 0,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/khushvind.maurya',
+
             },
-            {
-                id: 1,
+            
+
+          {
+                 id: 1,
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/khushvind-maurya-166a411a8/'
             },
@@ -867,6 +1013,14 @@ export const FRESHERS = [
     },
 
     {
+        entryNum: 1038,
+        name: "Nishika Agrawal",
+        image: 'https://www.google.com/search?q=profile+icon&rlz=1C1RXQR_enIN977IN977&sxsrf=APq-WBsAcwjMhJMgXyP0VP-yTGCqOaMcwA:1644082529931&source=lnms&tbm=isch&sa=X&ved=2ahUKEwje2bXZjOn1AhUTZd4KHVFNCUsQ_AUoAXoECAEQAw&biw=1366&bih=663&dpr=1#imgrc=gT-C8jMIKe8YKM',
+        branch: 'ME2',
+        about: '',
+     },
+
+    {
         entryNum: 547,
         name: "Rishit Singla",
         image: 'https://images7.alphacoders.com/729/thumb-1920-729209.jpg',
@@ -890,6 +1044,54 @@ export const FRESHERS = [
             },
         ]
     },
+    {
+        entryNum: 89,
+        name: "Yadvender Singh",
+        image: 'https://images.indianexpress.com/2020/11/IIT-Delhi-1200.jpg',
+        branch: 'CS1',
+        about: 'Just another guy who likes DevClub a lot',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/yadvenderchahal/'
+            },
+            {
+                id: 1,
+                type: 'twitter',
+                url: 'https://twitter.com/ChahalYadvender'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://www.github.com/yadvenderchahal/',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/yadvender.chahal.7',
+            }
+        ]
+    },
+      {
+        entryNum: 437,
+        name: "Uditanshu Sharma",
+        image: 'https://images.pexels.com/photos/934718/pexels-photo-934718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        branch: 'CH7',
+        about: 'enjoying sessions',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/uditanshu57/',
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/us0437',
+            },
+        ]
+    }, 
     {
         entryNum: 1175,
         name: "Basil Labib",
@@ -920,6 +1122,7 @@ export const FRESHERS = [
                 type: 'Instagram',
                 url: 'https://www.instagram.com/g_arnav_/',
 
+
             },
             {
                 id: 2,
@@ -935,6 +1138,7 @@ export const FRESHERS = [
         image: '/GitAssignment2022/assets/2021ME21046.jpg',
         branch: 'ME2',
         about: 'kya hi jaan loge ye padhke?',
+
         contact: [
             {
                 id: 0,
@@ -945,6 +1149,7 @@ export const FRESHERS = [
                 id: 1,
                 type: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/aditya-singal-3a96b0223/'
+
             },
             {
                 id: 2,
@@ -979,7 +1184,9 @@ export const FRESHERS = [
                 id: 3,
                 type: 'Facebook',
                 url: 'https://www.facebook.com/profile.php?id=100074553648861',
+
             },
+
         ]
     },
 ];
