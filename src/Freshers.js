@@ -1189,4 +1189,30 @@ export const FRESHERS = [
 
         ]
     },
+    {
+        entryNum: 757,
+        name: 'Mayank Arya',
+        image: 'https://cdn150.picsart.com/upscale-245339439045212.png',
+        branch: 'ES1',
+        about: 'Explorer',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/mayank._.arya/',
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/meyenk',
+            },
+            {
+                id: 3,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/mayank-arya-b9b632223/',
+
+            },
+
+        ]
+    },
 ];
