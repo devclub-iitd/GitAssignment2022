@@ -1,30 +1,30 @@
 export const FRESHERS = [
     {
-        entryNum: 143,
-        name: "Vansh Kachhwal",
-        image: '/GitAssignment2022/assets/cardImg.png',
-        branch: 'MT1',
-        about: 'Just another technophile',
+        entryNum: 120,
+        name: "Vikashmeena",
+        image: 'https://th.bing.com/th/id/OIP.kQb9khtxOxwErol-KhGysgHaHs?pid=ImgDet&rs=1',
+        branch: 'CS1',
+        about: 'Nothing Great !',
         contact: [
             {
                 id: 0,
                 type: 'Instagram',
-                url: 'https://www.instagram.com/vk_230/'
+                url: 'https://www.instagram.com/vikasmeena7781/'
             },
             {
                 id: 1,
                 type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/vansh-kachhwal-b638a8124/'
+                url: 'https://www.linkedin.com/in/vikash-kumar-meena-6a4b0b230/'
             },
             {
                 id: 2,
                 type: 'Github',
-                url: '',
+                url: 'https://github.com/Vikashmeen',
             },
             {
                 id: 3,
                 type: 'Facebook',
-                url: 'https://www.facebook.com/vansh.kachhwal.7',
+                url: 'https://www.facebook.com/profile.php?id=100017243734154'
             }
         ]
     },
