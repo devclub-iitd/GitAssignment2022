@@ -291,7 +291,25 @@ export const FRESHERS = [
         ]
     },
     {
-
+        entryNum: 1056,
+        name: "Aviral Rastogi",
+        image: 'https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png',
+        branch: 'ME2',
+        about: 'Jack of all trades, master of none',
+        contact: [
+            {
+                id: 2,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/r.aviral03/',
+            },
+            {
+                id: 4,
+                type: 'GitHub',
+                url: 'https://github.com/hackral03',
+            },
+          ]
+      },
+      {
         entryNum: 653,
         name : "Maithili Joshi",
         image: 'https://th.bing.com/th/id/OIP.7aIR4LvFwx6Rxytccg1WOAHaHa?pid=ImgDet&rs=1',
@@ -1190,3 +1208,4 @@ export const FRESHERS = [
         ]
     },
 ];
+
