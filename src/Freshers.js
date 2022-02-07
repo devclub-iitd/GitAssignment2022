@@ -1163,6 +1163,25 @@ export const FRESHERS = [
             }
         ]
     },
+    
+    {
+        entryNum: 980,
+        name: "Akshar Tripathi",
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKJYJtr8OJ0CvRLcGMybGThLQQsyWIugmRA&usqp=CAU',
+        branch: 'ME1',
+        about: '...',
+
+        contact: [
+            
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/AT-9331',
+            },
+            
+        ]
+    },
+    
     {
         entryNum: 976,
         name: 'Akshatt Sethia',
