@@ -436,5 +436,24 @@ export const FRESHERS = [
                 url: "https://github.com/aiden-exe/"
             }
         ]
+    },
+    {
+        entryNum: 1084,
+        name: "Aditya Bisen",
+        branch: "ME2",
+        image: "https://preview.redd.it/1qezhtstzx811.jpg?width=960&crop=smart&auto=webp&s=b8a19cef1b4ccd7a53dce161954d9e84850c6367",
+        about: "Nothing",
+        contact: [
+            {
+                id: 0,
+                type: "Instagram",
+                url: "https://www.instagram.com/aditya_bisen_/"
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: "https://github.com/AdityaBisenn"
+            }
+        ]
     }
 ];
