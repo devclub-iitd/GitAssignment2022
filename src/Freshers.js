@@ -1190,3 +1190,24 @@ export const FRESHERS = [
         ]
     },
 ];
+ 
+ entryNum: 471,
+        name: "Yajat Kapoor",
+        image: 'https://www.pandasecurity.com/en/mediacenter/src/uploads/2016/03/pandasecurity-Who-are-the-most-famous-hackers-in-history.jpg',
+        branch: 'CE1',
+        about: 'Explorer in the field of technology and coding'
+        contact: [
+            {
+                id: 1,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/yajat.kapoor.1'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/Yajat0811?tab=repositories',
+            },
+        ]
+    },
+];
+
