@@ -190,7 +190,6 @@ export const FRESHERS = [
         ]
     },
     {
-      {
         entryNum: '2021BB10321',
         name : "Dhruv Jain",
         image: '/GitAssignment2022/public/assets/Spiderman.jpg',
@@ -1026,7 +1025,7 @@ export const FRESHERS = [
         image: 'https://images7.alphacoders.com/729/thumb-1920-729209.jpg',
         branch: 'CS1',
         about: 'Very inquisitive',
-        contacts: [
+        contact: [
             {
                 id: 0,
                 type: 'Instagram',
