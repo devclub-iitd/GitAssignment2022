@@ -189,7 +189,6 @@ export const FRESHERS = [
             
         ]
     },
-    {
       {
         entryNum: '2021BB10321',
         name : "Dhruv Jain",
@@ -291,7 +290,29 @@ export const FRESHERS = [
         ]
     },
     {
-
+        entryNum: 600,
+        name : "Ojasvi Bansal",
+        image: 'https://cdn.ndtv.com/tech/images/gadgets/pikachu_hi_pokemon.jpg',
+        branch: 'CS5',
+        about: 'Just another technophile',
+        contact: [
+             {
+                id: 0,
+                type: 'Github',
+                url: 'https://github.com/Geeky-Noob',
+              },
+             {
+                id: 1,
+                type: 'Instagram',
+                url:'https://www.instagram.com/ojasvi_383/',
+              },
+             {  id: 2,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/profile.php?id=100074623955661',
+              },
+         ]
+    },
+    {
         entryNum: 653,
         name : "Maithili Joshi",
         image: 'https://th.bing.com/th/id/OIP.7aIR4LvFwx6Rxytccg1WOAHaHa?pid=ImgDet&rs=1',
@@ -458,7 +479,6 @@ export const FRESHERS = [
           ]
     },
   {
-
         entryNum: 1052,
         name : "Harsh Swaika",
         image: '/GitAssignment2022/assets/2021ME21052.jpg',
@@ -539,6 +559,7 @@ export const FRESHERS = [
                 url:"https://github.com/Mahesh1choudhary"
             }
         ]
+
     },
     {
         entryNum: 552,
@@ -546,15 +567,14 @@ export const FRESHERS = [
         image: "/GitAssignment2022/assets/2021CS10552.jpeg",
         branch: "CS1",
         about: " tolal noob but great passion for learning",
+
         contact: [
-            {
-                id: 0,
-                type: 'Github',
+                id:0
+                type:'GitHub'
                 url: 'https://github.com/harshitgupta3006',
             },
-            {
-                id: 1,
-                type: 'Instagram',
+              { id:1
+               type:'Instagram'
                 url: 'https://www.instagram.com/harshitgupta3006/',
             },
             {
