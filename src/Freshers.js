@@ -1189,4 +1189,36 @@ export const FRESHERS = [
 
         ]
     },
+    {
+        entryNum: 240,
+        name: 'Navneet Raj',
+        image: 'https://i.imgflip.com/4a072g.png',
+        branch: 'MT1',
+        about: 'Do not hurt people heart because they only have one, break their bones because they have 206 of them.',
+        contacts: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/thenavneetraj/',
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/2nav/'
+
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/2nav',
+            },
+            {
+                id: 3,
+                type: 'Facebook',
+                url: 'https://www.facebook.com/fb.navneet',
+
+            },
+
+        ]
+    },
 ];
