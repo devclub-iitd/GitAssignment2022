@@ -1189,4 +1189,23 @@ export const FRESHERS = [
 
         ]
     },
+    {
+        entryNum: 265,
+        name: "Saket Kandoi",
+        image: 'https://i.pinimg.com/originals/7d/bc/11/7dbc11f7ba2c258019b534b40d816cce.jpg',
+        branch: 'MT6',
+        about: 'Im definitely not late',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/saket.kandoi/'
+            },
+            {
+                id: 1,
+                type: 'Github',
+                url: 'https://github.com/Saket003',
+            },
+        ]
+    },
 ];
