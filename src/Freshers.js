@@ -1189,4 +1189,29 @@ export const FRESHERS = [
 
         ]
     },
+    {
+        entryNum: 139,
+        name: "Madhav Manish Gulati",
+        image: 'https://www.iitjeetoppers.com/StudentPic/637699505217222807.jpg',
+        branch: 'EE1',
+        about: 'An avid Computer Geek',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/madhavgulati277/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/madhav-manish-gulati-a554b7222'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: '',
+            },
+
+        ]
+    }
 ];
