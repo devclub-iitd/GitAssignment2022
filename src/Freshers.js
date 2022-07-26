@@ -570,6 +570,31 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 139,
+        name: "Madhav Manish Gulati",
+        image: 'https://www.kreedon.com/wp-content/uploads/2019/04/dhoni-with-the-world-cup-2011.jpg',
+        branch: 'EE1',
+        about: 'Coder, Debater, Student.',
+        contact: [
+            {
+                id: 0,
+                type: 'Instagram',
+                url: 'https://www.instagram.com/madhavgulati277/'
+            },
+            {
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/madhav-manish-gulati-a554b7222'
+            },
+            {
+                id: 2,
+                type: 'Github',
+                url: 'https://github.com/madhavgulati277',
+            },
+
+        ]
+    },
+    {
         entryNum: 73,
         name:"Aaveg Jain" ,
         image: 'https://i.pinimg.com/564x/ab/5f/91/ab5f91d4cf0cdc3b5fc1acff71e54ef1.jpg' ,
